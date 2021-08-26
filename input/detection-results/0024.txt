@@ -1,0 +1,9 @@
+kongdong 0.9076 10 120 40 174
+kongdong 0.1476 0 0 10 39
+kongdong 0.0551 0 -6 19 59
+kongdong 0.0253 0 3 9 24
+kongdong 0.0225 0 51 8 70
+kongdong 0.0222 0 57 8 77
+kongdong 0.0123 0 42 8 79
+fengxi 0.6124 389 350 414 407
+fengxi 0.1033 375 355 415 395

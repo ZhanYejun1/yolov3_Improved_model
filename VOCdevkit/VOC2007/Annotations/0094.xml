@@ -1,0 +1,26 @@
+<annotation>
+	<folder>huweijie</folder>
+	<filename>0094.jpg</filename>
+	<path>E:\huweijie\0094.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kongdong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>171</ymin>
+			<xmax>99</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

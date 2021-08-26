@@ -1,0 +1,7 @@
+kongdong 0.7522 0 195 25 246
+kongdong 0.6856 181 332 217 366
+kongdong 0.0825 0 207 13 247
+kongdong 0.0123 8 205 25 244
+kongdong 0.0117 3 216 24 241
+sunshang 0.2735 47 1 126 21
+sunshang 0.0192 36 -2 139 33

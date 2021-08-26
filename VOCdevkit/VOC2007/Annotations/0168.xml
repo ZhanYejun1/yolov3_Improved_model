@@ -1,0 +1,26 @@
+<annotation>
+	<folder>huweijie</folder>
+	<filename>0168.jpg</filename>
+	<path>E:\huweijie\0168.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sunshang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>163</ymin>
+			<xmax>125</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>

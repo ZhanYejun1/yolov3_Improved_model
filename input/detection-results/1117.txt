@@ -1,0 +1,6 @@
+fengxi 0.1262 -1 49 57 86
+sunshang 0.9870 292 337 404 395
+sunshang 0.3551 0 31 77 89
+sunshang 0.3385 0 53 69 83
+sunshang 0.0272 -3 -1 56 87
+sunshang 0.0102 4 43 57 78

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>luokai</folder>
+	<filename>1218.jpg</filename>
+	<path>E:\luokai\1218.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sunshang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>258</ymin>
+			<xmax>146</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zhanyejun</folder>
+	<filename>0961.jpg</filename>
+	<path>C:\Users\A3\Desktop\zhanyejun\0961.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sunshang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>306</ymin>
+			<xmax>369</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>

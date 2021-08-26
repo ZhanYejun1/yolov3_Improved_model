@@ -1,0 +1,6 @@
+sunshang 0.8683 25 0 89 55
+sunshang 0.8570 320 371 413 414
+sunshang 0.0510 27 6 110 37
+sunshang 0.0353 9 0 205 28
+sunshang 0.0210 314 384 385 413
+sunshang 0.0133 11 3 155 39

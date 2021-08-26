@@ -1,0 +1,1702 @@
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0000.jpg 146,196,179,214,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0001.jpg 148,278,177,291,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0002.jpg 135,51,159,68,0 148,332,190,354,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0003.jpg 144,149,161,160,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0004.jpg 147,220,167,235,0 6,47,46,69,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0005.jpg 16,131,46,154,0 144,299,171,323,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0006.jpg 21,192,42,208,0 150,367,175,379,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0007.jpg 22,252,45,266,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0008.jpg 196,32,245,53,0 29,293,49,307,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0009.jpg 196,101,236,122,0 20,349,42,366,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0010.jpg 192,144,237,168,0 19,385,46,404,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0011.jpg 184,205,236,227,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0012.jpg 180,253,219,276,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0013.jpg 171,272,225,299,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0014.jpg 170,312,225,335,0 26,17,64,45,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0015.jpg 22,50,66,73,0 167,345,213,371,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0016.jpg 22,74,67,100,0 169,382,210,403,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0017.jpg 19,105,62,131,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0018.jpg 19,124,61,156,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0019.jpg 11,151,55,176,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0020.jpg 244,135,281,160,0 282,124,310,182,0 316,327,352,349,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0021.jpg 207,55,244,94,0 198,217,229,264,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0022.jpg 384,35,414,88,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0023.jpg 393,151,415,213,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0024.jpg 13,120,35,181,0 395,346,414,402,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0025.jpg 13,314,43,375,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0026.jpg 393,1,410,41,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0027.jpg 377,189,414,279,0 8,21,26,63,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0028.jpg 8,238,33,284,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0029.jpg 348,2,394,45,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0030.jpg 73,149,117,171,0 25,264,52,308,0 326,259,353,301,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0031.jpg 345,245,395,291,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0032.jpg 345,379,398,414,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0033.jpg 226,179,265,212,0 264,174,295,235,0 17,175,35,223,0 2,186,19,200,0 150,118,208,163,2 215,329,228,380,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0034.jpg 286,90,316,108,0 156,302,183,345,0 11,110,61,120,1 18,80,41,102,2 46,89,69,103,1 335,184,389,226,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0035.jpg 22,206,53,268,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0036.jpg 25,251,56,303,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0037.jpg 16,351,51,399,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0038.jpg 204,190,238,223,0 330,53,395,80,2 267,38,360,53,2 326,96,394,122,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0039.jpg 310,1,342,27,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0040.jpg 305,47,351,109,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0041.jpg 314,138,352,203,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0042.jpg 308,225,348,307,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0043.jpg 317,301,356,361,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0044.jpg 92,42,127,62,0 77,184,100,202,0 233,285,269,306,0 269,274,294,325,0 260,166,294,186,0 210,152,326,172,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0045.jpg 133,40,174,65,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0046.jpg 307,153,349,223,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0047.jpg 42,159,78,203,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0048.jpg 40,115,86,172,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0049.jpg 47,108,79,158,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0050.jpg 49,99,74,143,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0051.jpg 46,75,89,133,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0052.jpg 53,20,106,84,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0053.jpg 129,60,189,88,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0054.jpg 52,14,101,78,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0055.jpg 53,14,96,78,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0056.jpg 374,174,416,238,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0057.jpg 28,21,53,54,0 390,176,416,251,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0058.jpg 32,288,65,346,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0059.jpg 129,100,178,131,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0060.jpg 280,213,354,298,1 21,8,58,87,1 4,24,26,46,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0061.jpg 8,74,33,102,0 29,60,59,126,1 298,268,342,337,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0062.jpg 24,115,61,180,1 7,126,32,154,0 300,317,347,380,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0063.jpg 290,369,345,416,1 29,167,53,227,1 10,180,29,201,0 238,1,289,28,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0064.jpg 243,21,298,79,0 3,223,34,248,0 32,216,57,278,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0065.jpg 241,60,288,129,0 7,261,32,288,0 32,255,57,317,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0066.jpg 248,129,301,177,0 13,307,36,334,0 37,299,55,365,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0067.jpg 251,162,307,216,0 8,333,38,360,0 41,324,59,390,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0068.jpg 239,202,302,257,0 33,373,53,416,1 9,374,29,398,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0069.jpg 256,230,309,298,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0070.jpg 246,267,290,325,0 306,20,373,69,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0071.jpg 317,63,374,104,1 262,300,305,348,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0072.jpg 235,332,292,385,0 311,96,371,136,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0073.jpg 312,119,375,157,1 258,348,297,396,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0074.jpg 304,155,365,188,1 247,376,300,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0075.jpg 310,175,364,215,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0076.jpg 299,190,378,225,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0077.jpg 219,174,329,231,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0078.jpg 218,199,329,259,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0079.jpg 223,246,323,303,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0080.jpg 85,17,181,56,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0081.jpg 213,281,322,335,1 129,8,167,59,0 38,2,195,37,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0082.jpg 23,33,222,75,1 121,55,170,96,0 211,305,313,357,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0083.jpg 212,332,323,392,1 130,99,169,137,0 52,77,230,115,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0084.jpg 56,125,233,157,1 137,143,168,181,0 216,366,317,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0085.jpg 57,169,232,199,1 139,191,174,226,0 399,75,416,159,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0086.jpg 394,126,412,207,2 66,226,234,251,1 141,242,174,275,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0087.jpg 59,267,226,291,1 139,285,169,317,0 398,168,414,248,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0088.jpg 57,299,228,311,1 132,310,183,345,0 396,196,411,272,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0089.jpg 388,232,406,305,2 136,348,173,379,0 59,335,235,347,1 64,3,113,35,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0090.jpg 54,18,109,69,0 386,277,411,357,2 51,390,232,404,1 136,404,177,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0091.jpg 83,119,183,169,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0092.jpg 63,85,113,137,0 392,331,413,408,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0093.jpg 66,130,111,182,0 384,371,406,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0094.jpg 57,171,99,221,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0095.jpg 60,222,100,272,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0096.jpg 57,273,90,320,0 166,2,193,22,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0097.jpg 163,34,199,74,1 190,4,274,53,2 47,289,93,371,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0098.jpg 171,74,195,111,1 189,35,270,95,2 48,354,85,414,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0099.jpg 153,107,184,141,1 164,63,261,123,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0100.jpg 174,80,253,145,2 153,131,176,170,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0101.jpg 153,227,284,275,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0102.jpg 90,203,189,249,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0103.jpg 163,264,290,301,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0104.jpg 165,293,290,335,1 24,8,79,110,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0105.jpg 29,57,80,152,2 166,325,290,363,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0106.jpg 25,87,71,178,2 166,348,286,379,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0107.jpg 27,132,74,218,2 164,382,286,414,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0108.jpg 35,172,79,258,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0109.jpg 35,212,73,295,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0110.jpg 33,250,77,336,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0111.jpg 35,294,79,380,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0112.jpg 38,340,74,415,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0113.jpg 87,266,179,319,2 293,2,343,70,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0114.jpg 40,365,67,415,2 105,1,158,48,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0115.jpg 96,29,165,102,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0116.jpg 92,92,159,156,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0117.jpg 88,144,153,211,0 359,35,410,71,2 374,1,416,38,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0118.jpg 87,201,143,269,0 359,93,409,122,2 379,51,415,95,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0119.jpg 73,249,144,326,0 367,142,414,171,2 380,98,413,139,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0120.jpg 62,295,136,366,0 363,177,416,204,2 373,130,413,174,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0121.jpg 258,185,348,234,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0122.jpg 258,216,354,260,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0123.jpg 251,249,344,292,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0124.jpg 286,60,334,131,1 93,319,188,366,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0125.jpg 248,275,352,323,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0126.jpg 242,314,341,351,1 401,57,413,128,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0127.jpg 400,93,413,163,1 250,340,339,378,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0128.jpg 394,128,416,198,1 252,368,348,408,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0129.jpg 396,164,416,225,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0130.jpg 144,1,179,52,0 76,2,132,14,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0131.jpg 90,25,145,60,0 146,12,192,91,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0132.jpg 99,74,153,108,0 141,54,186,137,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0133.jpg 150,106,183,176,0 98,115,148,149,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0134.jpg 112,144,155,173,0 162,131,188,208,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0135.jpg 290,103,333,180,1 102,352,199,400,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0136.jpg 92,168,152,209,0 155,158,184,237,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0137.jpg 100,219,141,248,0 148,208,176,284,0 374,23,406,71,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0138.jpg 381,62,412,111,2 101,254,143,281,0 149,244,179,314,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0139.jpg 107,290,146,320,0 150,278,184,349,0 375,94,406,149,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0140.jpg 373,132,406,184,2 148,314,180,390,0 99,324,145,352,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0141.jpg 101,352,140,374,0 144,340,178,408,0 368,156,401,208,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0142.jpg 371,187,404,236,2 98,381,142,409,0 141,368,191,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0143.jpg 370,219,404,268,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0144.jpg 365,238,400,293,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0145.jpg 367,269,400,323,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0146.jpg 292,163,341,257,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0147.jpg 371,300,407,356,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0148.jpg 35,6,113,23,2 372,321,401,378,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0149.jpg 33,31,115,44,2 36,1,124,20,2 373,348,400,405,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0150.jpg 379,381,402,414,2 18,64,113,72,2 43,13,109,50,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0151.jpg 27,97,110,107,2 41,52,119,87,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0152.jpg 22,128,119,134,2 41,75,115,115,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0153.jpg 38,106,118,143,2 23,147,126,170,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0154.jpg 27,129,105,166,2 17,173,100,190,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0155.jpg 275,371,386,415,2 1,128,73,155,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0156.jpg 4,173,82,214,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0157.jpg 4,133,51,226,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0158.jpg 3,166,51,264,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0159.jpg 1,206,84,313,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0160.jpg 257,3,359,20,2 7,242,37,342,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0161.jpg 245,32,350,71,2 1,290,50,385,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0162.jpg 248,88,343,129,2 4,357,42,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0163.jpg 242,147,328,181,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0164.jpg 241,192,336,234,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0165.jpg 32,229,355,269,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0166.jpg 38,309,344,354,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0167.jpg 59,45,123,108,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0168.jpg 25,163,125,242,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0169.jpg 71,265,128,325,2 261,2,349,30,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0170.jpg 268,60,347,109,2 73,348,137,410,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0171.jpg 262,143,354,194,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0172.jpg 261,236,340,277,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0173.jpg 261,302,344,351,2 101,3,167,42,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0174.jpg 96,30,179,97,2 258,357,347,407,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0175.jpg 89,87,173,154,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0176.jpg 198,120,388,217,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0177.jpg 216,168,387,260,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0178.jpg 228,242,386,342,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0179.jpg 335,361,398,415,2 6,1,109,43,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0180.jpg 1,100,101,169,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0181.jpg 5,181,118,257,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0182.jpg 18,295,127,370,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0183.jpg 13,63,189,81,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0184.jpg 90,43,274,185,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0185.jpg 16,155,195,171,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0186.jpg 40,214,223,233,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0187.jpg 38,290,212,312,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0188.jpg 41,357,210,380,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0189.jpg 260,1,384,51,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0190.jpg 259,47,391,113,2 265,2,357,24,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0191.jpg 169,18,342,34,2 263,30,382,89,2 255,111,384,158,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0192.jpg 169,67,341,90,2 269,81,379,136,2 266,160,382,201,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0193.jpg 165,131,323,153,2 250,140,368,202,2 246,220,372,262,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0194.jpg 160,234,319,335,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0195.jpg 105,189,279,308,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0196.jpg 161,282,330,385,2 310,32,409,87,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0197.jpg 298,120,413,162,2 155,342,310,415,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0198.jpg 300,176,409,232,2 165,381,215,414,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0199.jpg 307,230,406,291,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0200.jpg 295,275,409,327,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0201.jpg 1,75,52,103,2 283,313,411,374,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0202.jpg 5,44,105,174,2 301,372,406,411,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0203.jpg 9,104,99,223,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0204.jpg 11,153,100,277,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0205.jpg 4,217,92,341,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0206.jpg 266,42,405,126,2 116,306,283,408,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0207.jpg 265,17,359,67,2 3,344,102,399,2 7,270,40,329,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0208.jpg 273,62,352,113,2 5,310,28,372,2 7,387,47,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0209.jpg 148,297,402,313,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0210.jpg 151,341,415,358,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0211.jpg 153,383,407,414,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0212.jpg 216,1,279,30,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0213.jpg 190,8,296,84,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0214.jpg 186,59,279,129,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0215.jpg 186,108,280,183,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0216.jpg 190,152,280,225,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0217.jpg 282,155,406,231,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0218.jpg 201,226,289,288,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0219.jpg 214,272,276,346,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0220.jpg 201,338,284,405,2 379,90,416,127,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0221.jpg 378,125,416,172,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0222.jpg 371,189,413,245,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0223.jpg 368,259,416,306,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0224.jpg 244,25,333,92,2 367,331,411,371,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0225.jpg 281,261,400,311,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0226.jpg 271,332,397,388,2 1,47,76,83,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0227.jpg 229,192,300,237,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0228.jpg 144,187,189,223,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0229.jpg 222,193,307,232,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0230.jpg 129,194,183,229,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0231.jpg 232,197,292,232,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0232.jpg 132,199,193,229,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0233.jpg 143,115,183,144,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0234.jpg 228,263,273,303,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0235.jpg 246,120,294,147,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0236.jpg 236,112,289,146,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0237.jpg 236,269,272,296,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0238.jpg 253,112,297,138,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0239.jpg 227,56,279,85,0 259,344,292,368,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0240.jpg 258,55,280,74,0 202,319,294,363,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0241.jpg 211,40,258,67,0 262,355,304,383,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0242.jpg 256,250,277,273,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0243.jpg 138,223,189,245,0 8,50,34,70,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0244.jpg 243,182,275,195,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0245.jpg 253,162,274,194,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0246.jpg 251,228,277,250,0 398,42,416,68,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0247.jpg 246,167,280,194,0 398,380,416,401,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0248.jpg 251,171,281,198,0 376,328,415,377,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0249.jpg 250,170,290,200,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0250.jpg 126,172,156,194,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0251.jpg 248,77,288,105,0 392,263,407,297,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0252.jpg 249,85,279,117,0 374,243,399,282,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0253.jpg 252,93,268,114,0 374,265,406,290,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0254.jpg 261,25,286,46,0 373,194,403,242,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0255.jpg 244,28,274,47,0 371,193,413,235,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0256.jpg 276,9,306,29,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0257.jpg 9,247,50,278,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0258.jpg 1,266,16,294,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0259.jpg 374,141,406,168,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0260.jpg 379,265,405,292,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0261.jpg 393,239,416,264,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0262.jpg 11,131,66,165,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0263.jpg 147,338,241,406,0 367,101,396,118,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0264.jpg 374,101,400,128,0 177,358,250,390,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0265.jpg 156,14,213,44,0 386,291,413,316,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0266.jpg 180,376,234,410,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0267.jpg 384,116,409,135,0 168,368,234,395,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0268.jpg 188,22,242,44,0 12,305,52,335,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0269.jpg 181,362,233,386,0 372,104,395,127,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0270.jpg 188,302,232,327,0 9,45,28,68,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0271.jpg 173,293,227,321,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0272.jpg 181,242,234,272,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0273.jpg 191,245,243,272,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0274.jpg 193,185,232,217,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0275.jpg 179,187,224,213,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0276.jpg 186,210,230,229,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0277.jpg 195,134,239,163,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0278.jpg 179,137,221,166,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0279.jpg 181,260,227,277,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0280.jpg 195,147,232,172,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0281.jpg 166,120,215,144,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0282.jpg 167,108,213,136,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0283.jpg 203,278,256,303,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0284.jpg 189,105,231,127,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0285.jpg 201,101,244,126,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0286.jpg 205,280,249,305,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0287.jpg 209,282,250,304,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0288.jpg 219,77,265,99,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0289.jpg 179,81,231,106,0 24,383,66,411,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0290.jpg 204,80,249,107,0 345,372,396,399,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0291.jpg 195,19,228,41,0 7,336,53,368,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0292.jpg 371,58,411,88,0 202,385,268,403,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0293.jpg 192,2,242,20,0 374,301,414,342,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0294.jpg 372,281,412,312,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0295.jpg 1,309,50,330,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0296.jpg 351,256,400,293,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0297.jpg 364,281,410,312,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0298.jpg 350,260,405,305,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0299.jpg 12,280,51,309,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0300.jpg 3,280,53,311,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0301.jpg 379,222,416,256,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0302.jpg 386,140,416,169,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0303.jpg 359,235,404,269,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0304.jpg 372,122,415,160,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0305.jpg 358,135,407,164,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0306.jpg 7,221,44,251,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0307.jpg 387,214,416,247,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0308.jpg 374,137,413,172,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0309.jpg 368,205,416,247,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0310.jpg 356,182,401,220,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0311.jpg 362,188,398,226,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0312.jpg 389,34,415,82,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0313.jpg 5,332,34,375,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0314.jpg 2,363,31,405,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0316.jpg 1,335,31,372,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0317.jpg 378,352,416,397,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0318.jpg 1,361,23,397,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0319.jpg 4,166,38,200,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0320.jpg 396,161,416,216,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0321.jpg 1,230,34,295,0 352,1,413,65,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0322.jpg 365,238,407,300,0 1,17,37,61,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0323.jpg 364,43,407,108,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0324.jpg 390,300,415,374,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0325.jpg 399,4,416,74,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0326.jpg 391,36,416,117,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0327.jpg 403,28,416,111,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0328.jpg 386,303,416,378,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0329.jpg 1,37,50,101,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0331.jpg 384,374,413,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0332.jpg 391,399,416,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0333.jpg 1,1,38,33,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0334.jpg 1,199,42,274,0 383,25,411,63,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0335.jpg 405,254,416,309,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0336.jpg 392,238,416,292,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0337.jpg 394,120,416,169,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0338.jpg 404,129,416,189,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0340.jpg 390,130,416,178,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0341.jpg 20,387,72,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0342.jpg 369,403,409,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0345.jpg 1,241,54,301,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0346.jpg 345,106,411,172,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0347.jpg 1,104,41,163,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0348.jpg 1,231,63,301,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0349.jpg 10,258,62,307,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0350.jpg 1,251,31,296,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0351.jpg 10,260,67,316,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0352.jpg 18,114,71,174,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0353.jpg 1,110,60,158,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0354.jpg 26,230,68,301,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0355.jpg 356,238,412,291,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0356.jpg 11,117,67,169,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0357.jpg 18,120,82,169,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0359.jpg 6,390,79,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0360.jpg 3,1,63,25,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0361.jpg 352,328,404,381,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0362.jpg 369,326,407,383,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0363.jpg 4,109,44,154,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0364.jpg 395,232,416,279,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0365.jpg 372,242,412,296,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0366.jpg 367,146,398,203,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0367.jpg 377,147,413,226,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0368.jpg 1,127,50,186,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0369.jpg 353,150,410,207,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0370.jpg 363,106,392,158,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0371.jpg 384,84,416,144,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0372.jpg 370,113,410,173,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0373.jpg 365,1,401,49,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0374.jpg 352,12,405,65,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0375.jpg 1,363,13,391,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0378.jpg 228,391,286,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0379.jpg 231,400,289,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0381.jpg 43,403,92,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0382.jpg 304,302,366,363,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0383.jpg 306,311,355,370,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0384.jpg 62,307,110,360,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0385.jpg 71,307,109,361,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0386.jpg 53,318,109,375,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0387.jpg 28,297,67,364,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0388.jpg 310,143,356,205,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0389.jpg 52,211,92,268,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0390.jpg 47,114,110,194,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0391.jpg 57,224,100,289,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0392.jpg 57,231,119,307,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0393.jpg 318,142,374,214,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0394.jpg 70,114,107,187,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0395.jpg 58,249,96,314,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0396.jpg 59,117,119,188,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0397.jpg 342,41,394,114,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0398.jpg 52,54,104,114,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0399.jpg 56,57,108,121,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0400.jpg 32,47,83,111,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0401.jpg 47,61,92,117,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0402.jpg 55,40,95,102,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0403.jpg 44,26,92,84,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0404.jpg 62,313,105,373,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0405.jpg 53,31,109,87,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0406.jpg 56,308,107,381,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0407.jpg 239,36,287,71,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0408.jpg 259,349,307,390,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0409.jpg 52,185,107,257,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0410.jpg 47,199,102,261,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0411.jpg 312,176,367,250,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0412.jpg 335,207,383,271,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0413.jpg 341,190,380,260,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0414.jpg 337,202,377,269,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0415.jpg 26,159,81,214,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0416.jpg 33,193,74,262,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0417.jpg 334,193,391,260,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0418.jpg 333,219,376,315,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0419.jpg 341,244,386,292,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0420.jpg 25,123,73,173,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0421.jpg 339,117,373,181,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0422.jpg 341,263,381,321,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0423.jpg 332,254,382,316,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0424.jpg 344,264,384,319,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0425.jpg 337,257,383,315,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0426.jpg 350,243,389,314,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0427.jpg 351,272,391,338,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0428.jpg 338,251,371,308,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0429.jpg 344,244,386,309,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0430.jpg 22,257,64,307,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0431.jpg 38,114,84,169,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0432.jpg 30,262,77,316,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0433.jpg 331,282,387,349,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0434.jpg 351,265,391,338,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0435.jpg 337,280,373,338,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0436.jpg 349,71,385,144,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0437.jpg 338,265,379,323,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0438.jpg 340,266,372,325,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0439.jpg 24,276,70,335,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0440.jpg 28,281,95,348,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0441.jpg 39,291,83,352,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0442.jpg 334,17,376,90,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0443.jpg 336,327,377,403,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0444.jpg 355,317,401,403,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0445.jpg 318,321,365,395,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0446.jpg 116,338,171,375,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0447.jpg 231,37,294,77,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0448.jpg 238,310,288,354,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0449.jpg 248,333,305,366,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0450.jpg 128,324,182,353,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0451.jpg 332,331,380,407,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0452.jpg 321,337,371,408,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0453.jpg 338,347,392,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0454.jpg 330,332,381,410,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0455.jpg 57,333,105,402,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0456.jpg 402,199,416,251,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0457.jpg 1,183,13,227,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0458.jpg 1,195,46,219,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0459.jpg 359,387,386,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0460.jpg 377,157,416,239,0 18,360,66,389,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0461.jpg 1,178,41,269,0 367,19,398,66,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0462.jpg 407,174,416,239,0 3,381,45,414,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0463.jpg 8,61,59,139,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0464.jpg 11,49,44,120,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0465.jpg 361,308,393,383,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0466.jpg 353,47,388,111,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0467.jpg 15,41,67,104,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0468.jpg 13,62,53,131,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0469.jpg 358,59,393,127,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0470.jpg 352,291,400,354,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0471.jpg 359,44,411,109,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0472.jpg 114,285,190,327,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0473.jpg 251,310,301,340,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0474.jpg 295,117,348,184,1 26,337,48,407,0 5,369,31,391,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0475.jpg 53,239,99,314,1 360,1,401,44,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0476.jpg 374,1,390,71,0 396,12,416,41,0 54,231,115,297,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0477.jpg 64,115,118,183,1 372,349,389,415,0 391,388,416,411,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0478.jpg 72,106,117,174,1 361,355,394,416,0 390,395,412,415,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0479.jpg 63,110,122,178,1 369,355,392,416,0 385,391,413,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0480.jpg 52,117,111,204,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0481.jpg 73,120,121,185,1 363,340,392,412,0 392,372,411,397,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0482.jpg 293,127,345,202,1 10,354,31,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0483.jpg 67,224,119,291,1 374,3,386,80,0 392,25,411,49,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0484.jpg 294,120,351,191,1 25,338,48,405,0 1,368,26,390,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0485.jpg 55,107,110,181,1 375,358,399,416,0 392,395,416,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0486.jpg 68,234,115,298,1 366,1,394,69,0 392,12,413,37,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0487.jpg 304,264,359,335,1 5,63,34,132,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0488.jpg 301,59,365,141,1 1,278,34,340,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0489.jpg 68,78,121,136,1 370,284,400,361,0 396,323,416,344,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0490.jpg 293,271,342,337,1 31,62,60,132,0 4,78,33,98,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0491.jpg 62,38,107,100,1 363,243,390,314,0 383,276,416,302,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0492.jpg 74,1,130,45,1 128,390,178,414,0 361,179,389,248,0 380,217,408,237,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0493.jpg 86,1,136,30,1 141,393,187,411,0 389,172,411,244,0 401,209,416,232,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0494.jpg 4,208,28,227,0 26,175,47,240,0 236,396,268,415,0 290,1,352,47,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0495.jpg 364,155,383,229,0 382,174,413,195,0 53,374,118,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0496.jpg 29,168,61,230,0 7,176,42,201,0 282,365,351,416,1 240,1,280,21,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0497.jpg 236,1,286,53,0 4,230,47,306,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0498.jpg 108,332,169,397,0 380,120,413,196,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0499.jpg 390,129,410,159,0 366,99,395,165,0 112,290,184,350,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0500.jpg 231,276,294,348,0 32,92,59,164,0 14,123,29,149,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0501.jpg 119,230,180,289,0 379,35,397,110,0 395,73,416,94,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0502.jpg 260,243,320,306,0 10,88,38,110,0 41,55,67,119,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0503.jpg 253,235,322,304,0 1,53,23,119,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0504.jpg 100,232,158,293,0 356,28,386,94,0 379,60,408,86,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0505.jpg 254,226,316,294,0 6,39,36,113,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0506.jpg 239,121,300,181,0 19,315,50,371,0 1,315,19,341,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0507.jpg 110,244,168,305,0 359,17,392,87,0 377,57,413,80,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0508.jpg 258,146,307,217,0 1,1,36,34,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0509.jpg 121,201,180,260,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0510.jpg 120,148,172,205,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0511.jpg 246,145,313,212,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0512.jpg 109,198,168,257,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0513.jpg 119,193,178,255,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0514.jpg 99,141,162,198,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0515.jpg 116,236,167,297,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0516.jpg 94,123,153,186,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0517.jpg 104,132,162,190,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0518.jpg 265,123,317,181,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0519.jpg 79,42,151,98,0 21,321,87,359,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0520.jpg 259,59,328,119,0 330,320,390,357,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0521.jpg 105,28,167,80,0 31,288,90,328,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0522.jpg 214,357,294,405,0 315,101,369,139,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0523.jpg 13,114,94,150,1 84,369,141,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0524.jpg 252,4,323,59,0 306,252,380,295,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0525.jpg 334,210,391,254,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0526.jpg 46,221,110,263,1 114,1,159,41,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0527.jpg 22,233,93,274,1 83,1,133,31,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0528.jpg 31,147,110,178,1 99,380,150,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0529.jpg 28,187,99,218,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0530.jpg 38,180,102,211,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0531.jpg 34,173,106,209,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0532.jpg 310,198,380,227,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0533.jpg 35,177,110,212,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0534.jpg 31,201,116,236,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0535.jpg 25,191,102,221,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0536.jpg 310,182,380,211,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0537.jpg 45,185,116,214,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0538.jpg 206,186,332,257,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0539.jpg 69,179,200,240,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0540.jpg 72,163,195,229,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0541.jpg 219,159,339,231,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0542.jpg 62,182,191,243,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0543.jpg 85,188,203,255,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0544.jpg 79,158,202,230,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0545.jpg 204,154,332,223,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0546.jpg 92,159,201,218,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0547.jpg 76,166,191,229,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0548.jpg 77,146,191,207,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0549.jpg 83,143,201,201,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0550.jpg 74,153,200,214,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0551.jpg 91,159,198,218,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0552.jpg 214,141,333,205,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0553.jpg 90,159,199,216,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0554.jpg 92,115,193,168,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0555.jpg 90,113,191,170,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0556.jpg 82,112,188,173,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0557.jpg 219,119,325,179,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0558.jpg 81,249,189,305,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0559.jpg 92,106,199,161,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0560.jpg 90,107,198,160,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0561.jpg 84,100,193,163,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0562.jpg 87,120,195,177,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0563.jpg 84,115,196,181,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0564.jpg 250,381,362,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0565.jpg 240,361,332,401,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0566.jpg 85,17,177,54,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0567.jpg 245,375,343,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0568.jpg 238,358,335,398,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0569.jpg 72,370,166,411,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0570.jpg 236,1,331,31,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0571.jpg 60,369,164,403,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0572.jpg 239,360,332,402,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0573.jpg 234,366,328,406,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0574.jpg 225,379,321,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0575.jpg 78,75,189,137,1 312,382,406,416,1 268,375,310,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0576.jpg 252,386,296,416,0 355,406,394,416,1 100,72,214,126,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0577.jpg 82,71,198,125,1 345,406,375,416,1 234,387,277,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0578.jpg 96,78,200,129,1 281,387,373,416,1 246,369,284,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0579.jpg 216,79,328,143,1 5,404,40,416,1 111,391,144,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0580.jpg 96,82,199,131,1 285,381,373,416,1 231,367,285,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0581.jpg 103,53,210,98,1 184,359,382,389,1 246,335,291,378,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0582.jpg 123,325,163,366,0 41,341,218,381,1 211,62,314,111,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0583.jpg 87,52,202,98,1 181,373,376,402,1 237,347,288,391,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0584.jpg 249,330,291,372,0 104,56,208,105,1 194,353,377,384,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0585.jpg 107,14,215,59,1 179,324,369,347,1 239,294,284,337,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0586.jpg 250,84,288,125,0 191,67,374,107,1 97,339,201,389,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0587.jpg 94,25,193,77,1 187,307,365,342,1 240,287,290,325,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0588.jpg 238,293,288,336,0 180,324,369,349,1 109,14,216,60,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0589.jpg 191,78,363,118,1 105,337,201,384,1 247,95,287,132,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0590.jpg 239,90,278,132,0 171,75,367,110,1 92,367,202,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0591.jpg 95,25,198,77,1 190,310,368,343,1 241,291,290,329,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0592.jpg 131,282,169,323,0 48,300,222,338,1 220,30,316,79,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0593.jpg 98,1,139,32,1 191,259,369,292,1 245,238,289,278,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0594.jpg 242,240,283,278,0 191,260,362,290,1 106,1,198,45,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0595.jpg 96,1,161,43,1 195,255,366,294,1 247,239,289,277,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0596.jpg 136,140,172,175,0 56,124,225,158,1 220,371,311,415,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0597.jpg 106,1,200,45,1 192,257,359,292,1 245,241,284,279,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0598.jpg 238,238,275,279,0 183,258,359,294,1 95,1,134,32,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0599.jpg 184,153,376,178,1 252,166,291,207,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0600.jpg 135,192,172,231,0 52,213,228,246,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0601.jpg 189,222,361,246,1 243,197,283,233,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0602.jpg 147,199,181,239,0 66,221,240,251,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0603.jpg 192,217,355,245,1 243,196,279,231,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0604.jpg 237,189,284,231,0 184,205,371,250,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0605.jpg 59,213,227,246,1 136,196,173,232,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0606.jpg 242,196,280,231,0 191,218,360,245,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0607.jpg 193,227,380,252,1 252,200,296,240,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0608.jpg 141,130,180,170,0 58,148,234,189,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0609.jpg 174,167,346,192,1 228,140,269,178,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0610.jpg 247,238,283,278,0 192,224,362,253,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0611.jpg 186,165,352,189,1 239,141,274,179,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0612.jpg 185,226,354,263,1 238,242,277,283,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0613.jpg 248,144,288,180,0 196,169,365,194,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0614.jpg 191,229,365,261,1 248,243,283,284,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0615.jpg 239,141,279,179,0 185,168,357,189,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0616.jpg 247,93,286,129,0 192,120,368,143,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0617.jpg 198,271,381,289,1 259,283,295,322,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0618.jpg 252,97,294,138,0 188,134,379,148,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0619.jpg 193,100,355,120,1 244,75,279,111,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0620.jpg 313,19,346,64,0 197,393,358,406,1 254,401,285,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0621.jpg 181,1,314,14,1 337,365,376,411,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0622.jpg 335,351,382,395,0 171,1,255,12,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0623.jpg 80,249,176,297,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0624.jpg 248,245,343,286,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0625.jpg 239,249,332,292,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0626.jpg 88,252,183,302,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0627.jpg 239,124,329,165,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0628.jpg 239,253,331,298,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0629.jpg 319,285,354,325,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0630.jpg 344,279,388,324,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0631.jpg 327,284,364,327,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0632.jpg 313,236,348,278,0 8,1,32,42,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0633.jpg 8,1,33,45,2 312,238,348,278,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0634.jpg 316,125,351,169,0 19,398,28,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0635.jpg 66,118,98,168,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0636.jpg 320,186,357,231,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0637.jpg 327,186,360,228,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0638.jpg 322,196,356,240,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0639.jpg 319,194,352,237,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0640.jpg 323,171,356,216,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0641.jpg 57,132,92,180,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0642.jpg 55,156,90,203,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0643.jpg 323,139,357,186,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0644.jpg 324,144,356,190,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0645.jpg 316,125,354,175,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0646.jpg 54,158,86,208,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0647.jpg 333,147,366,192,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0648.jpg 324,96,358,139,0 225,393,256,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0649.jpg 232,398,255,416,1 343,79,375,127,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0650.jpg 338,81,369,125,0 229,394,261,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0651.jpg 328,87,360,130,0 234,397,264,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0652.jpg 43,47,69,93,0 155,360,184,387,1 184,378,248,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0653.jpg 326,31,356,78,0 152,370,213,416,1 213,346,248,375,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0654.jpg 56,320,87,365,0 165,41,196,70,1 194,6,256,51,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0655.jpg 336,318,361,366,0 159,1,215,50,1 222,37,252,64,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0656.jpg 157,314,186,343,1 42,1,68,45,1 185,333,249,382,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0657.jpg 163,16,227,66,1 230,53,260,84,1 360,360,397,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0658.jpg 201,330,260,383,1 166,314,199,346,1 41,1,69,55,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0659.jpg 164,42,224,87,1 221,74,253,111,1 332,366,363,411,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0660.jpg 172,335,228,379,1 228,311,261,340,1 332,1,360,40,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0661.jpg 163,302,229,357,1 231,280,268,312,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0662.jpg 165,293,229,343,1 232,269,264,302,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0663.jpg 179,267,245,320,1 248,245,278,279,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0664.jpg 184,271,249,323,1 250,244,282,279,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0665.jpg 145,271,185,305,1 182,289,259,352,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0666.jpg 134,147,283,178,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0667.jpg 119,134,265,168,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0668.jpg 138,146,265,179,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0669.jpg 137,144,272,184,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0670.jpg 145,133,283,173,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0671.jpg 139,149,272,187,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0672.jpg 138,148,272,185,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0673.jpg 236,166,325,205,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0674.jpg 85,217,175,259,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0675.jpg 167,262,293,307,1 18,1,52,64,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0676.jpg 44,379,59,416,2 157,120,287,156,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0677.jpg 158,115,285,148,1 43,361,71,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0678.jpg 350,1,381,62,2 132,262,248,301,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0679.jpg 127,112,263,146,1 357,367,379,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0680.jpg 356,363,379,416,2 124,116,255,155,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0681.jpg 120,71,248,112,1 355,312,406,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0682.jpg 1,1,49,103,2 170,303,303,350,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0683.jpg 127,79,258,119,1 351,319,401,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0684.jpg 373,301,416,394,2 113,54,247,105,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0685.jpg 132,76,273,110,1 345,328,382,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0686.jpg 358,12,400,110,2 124,297,252,339,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0687.jpg 134,83,259,117,1 345,313,391,412,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0688.jpg 355,60,396,149,2 116,329,247,372,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0689.jpg 169,38,296,76,1 25,265,73,360,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0690.jpg 129,55,255,88,1 340,267,388,357,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0691.jpg 349,247,396,337,2 133,29,266,59,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0692.jpg 127,30,256,61,1 352,245,403,338,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0693.jpg 355,200,406,293,2 138,1,182,10,1 77,304,266,331,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0694.jpg 355,123,397,214,2 80,88,248,105,2 131,406,188,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0695.jpg 343,194,394,285,2 77,305,253,327,2 124,1,193,20,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0696.jpg 356,109,391,206,2 66,94,233,110,2 147,406,203,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0697.jpg 88,82,234,99,2 351,121,399,207,2 129,384,252,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0698.jpg 88,82,255,104,2 356,118,402,211,2 139,387,261,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0699.jpg 91,76,229,102,2 358,141,404,231,2 109,396,169,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0700.jpg 138,1,258,27,1 341,201,389,287,2 85,303,216,322,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0701.jpg 87,257,228,275,2 336,158,378,241,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0702.jpg 81,268,229,287,2 358,133,411,230,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0703.jpg 88,129,242,149,2 355,159,392,248,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0704.jpg 1,143,57,230,2 154,265,325,294,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0705.jpg 354,145,403,240,2 78,268,235,284,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0706.jpg 58,125,228,148,2 352,145,397,241,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0707.jpg 79,212,242,243,2 366,126,409,223,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0708.jpg 22,110,59,199,2 186,200,328,232,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0709.jpg 90,160,235,192,2 351,82,394,167,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0710.jpg 55,179,214,199,2 346,58,393,148,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0711.jpg 72,167,220,185,2 340,72,384,155,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0712.jpg 17,80,65,168,2 175,170,324,193,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0713.jpg 28,261,74,346,2 184,223,335,245,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0714.jpg 16,71,57,151,2 183,164,321,184,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0715.jpg 94,177,242,197,2 352,84,394,166,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0716.jpg 29,29,66,111,2 170,120,337,148,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0717.jpg 31,39,63,119,2 166,116,325,136,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0718.jpg 93,273,248,295,2 342,295,378,377,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0719.jpg 85,118,269,139,2 379,40,416,131,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0720.jpg 84,124,227,141,2 338,39,386,118,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0721.jpg 25,37,61,122,2 173,111,337,136,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0722.jpg 88,123,257,136,2 346,42,380,117,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0723.jpg 87,70,242,85,2 354,3,389,66,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0724.jpg 92,78,244,92,2 342,1,376,75,2 291,403,320,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0725.jpg 88,292,200,330,1 296,2,350,46,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0726.jpg 91,101,182,140,1 293,352,338,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0727.jpg 82,1,130,65,1 246,286,337,328,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0728.jpg 77,1,125,66,1 234,275,324,313,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0729.jpg 259,370,316,416,0 91,42,243,55,2 355,1,375,43,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0730.jpg 350,1,375,41,2 93,42,243,58,2 263,368,311,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0731.jpg 266,386,310,416,0 93,33,226,53,2 367,1,391,42,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0732.jpg 68,28,208,42,2 355,1,377,21,2 259,375,312,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0733.jpg 263,371,313,416,0 88,43,230,56,2 349,1,376,46,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0734.jpg 360,1,379,18,2 61,30,243,51,2 294,389,333,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0735.jpg 97,314,148,380,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0736.jpg 260,316,318,378,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0737.jpg 273,10,330,91,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0738.jpg 284,260,338,330,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0739.jpg 272,75,327,146,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0740.jpg 268,259,323,325,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0741.jpg 84,255,144,324,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0742.jpg 266,220,327,280,0 1,359,22,376,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0743.jpg 94,209,156,271,0 365,350,413,370,1 400,367,413,394,1 378,389,397,409,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0744.jpg 85,215,141,282,0 368,363,416,388,1 402,384,413,407,1 377,403,390,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0745.jpg 266,141,325,217,0 1,6,36,24,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0746.jpg 1,295,48,321,1 1,314,13,341,1 16,334,32,361,1 287,149,343,209,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0747.jpg 290,146,347,209,0 10,303,58,322,1 10,322,20,346,1 26,336,42,364,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0748.jpg 8,301,54,320,1 7,320,19,342,1 23,334,40,361,1 274,150,330,213,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0749.jpg 288,137,344,207,0 1,294,51,315,1 4,313,21,342,1 21,333,41,361,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0750.jpg 362,300,409,321,1 396,318,412,337,1 374,333,394,358,1 86,151,146,213,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0751.jpg 67,157,139,221,0 387,296,416,316,1 401,330,416,351,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0752.jpg 274,156,343,223,0 1,309,19,324,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0753.jpg 1,326,53,346,1 1,347,15,369,1 19,360,40,390,1 278,133,339,206,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0754.jpg 76,84,144,152,0 381,255,416,269,1 395,284,414,316,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0755.jpg 385,285,400,316,1 369,250,416,267,1 403,270,416,293,1 79,92,147,159,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0756.jpg 300,41,371,110,0 1,207,45,229,1 9,241,31,273,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0757.jpg 2,216,55,237,1 1,237,16,257,1 16,248,39,276,1 282,50,348,119,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0758.jpg 284,300,343,366,0 1,186,48,197,1 16,141,38,170,1 2,162,14,181,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0759.jpg 385,207,415,219,1 61,33,129,101,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0760.jpg 282,300,344,365,0 3,184,52,198,1 1,157,14,183,1 19,140,40,167,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0761.jpg 51,192,149,229,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0762.jpg 275,196,362,231,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0763.jpg 69,193,151,226,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0764.jpg 270,185,359,221,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0765.jpg 62,176,151,216,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0766.jpg 54,200,143,236,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0767.jpg 64,166,151,197,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0768.jpg 61,267,155,300,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0769.jpg 256,121,339,159,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0770.jpg 58,246,147,278,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0771.jpg 52,112,148,151,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0772.jpg 75,122,160,161,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0773.jpg 74,113,165,149,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0774.jpg 70,255,162,291,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0775.jpg 290,300,342,377,1 89,46,182,87,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0776.jpg 93,37,180,77,1 297,276,345,353,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0777.jpg 54,105,146,131,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0778.jpg 69,101,151,132,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0779.jpg 70,93,160,125,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0780.jpg 253,311,342,347,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0781.jpg 74,68,159,93,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0782.jpg 75,328,160,356,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0783.jpg 72,333,160,360,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0784.jpg 269,32,357,56,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0785.jpg 259,38,344,62,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0786.jpg 47,361,134,386,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0787.jpg 256,39,338,66,1 402,274,416,335,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0788.jpg 70,27,150,49,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0789.jpg 84,350,158,378,1 1,96,23,155,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0790.jpg 251,32,336,61,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0791.jpg 248,2,341,38,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0792.jpg 79,2,157,28,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0793.jpg 264,13,337,34,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0794.jpg 261,13,335,36,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0797.jpg 1,197,9,253,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0798.jpg 141,368,173,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0799.jpg 247,1,263,14,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0800.jpg 120,392,137,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0801.jpg 237,373,273,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0802.jpg 131,370,172,416,0 79,410,121,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0803.jpg 256,384,281,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0804.jpg 233,325,272,399,0 281,362,320,382,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0805.jpg 72,28,120,49,0 125,11,169,88,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0806.jpg 86,392,132,413,0 145,345,182,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0807.jpg 245,1,282,80,0 294,16,340,37,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0808.jpg 64,373,113,396,0 121,332,161,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0809.jpg 152,338,192,416,0 101,380,143,402,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0810.jpg 232,322,270,400,0 278,362,320,383,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0811.jpg 256,327,310,410,0 311,362,361,389,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0812.jpg 242,285,281,357,0 285,321,323,345,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0813.jpg 234,39,267,123,0 278,53,320,75,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0814.jpg 236,240,270,310,0 277,276,313,296,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0815.jpg 236,245,275,318,0 278,282,321,304,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0816.jpg 226,244,269,310,0 274,276,310,296,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0817.jpg 232,249,267,319,0 276,288,311,305,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0818.jpg 225,212,260,279,0 264,246,303,267,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0819.jpg 78,242,126,310,1 227,18,311,56,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0820.jpg 63,109,111,184,1 269,380,341,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0821.jpg 66,97,116,170,1 232,361,311,405,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0822.jpg 66,240,113,311,1 221,6,309,45,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0823.jpg 102,20,189,56,1 288,240,333,312,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0824.jpg 79,249,125,316,1 222,12,309,49,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0825.jpg 240,188,268,258,0 278,224,312,247,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0826.jpg 235,170,263,235,0 272,182,309,203,0 10,1,32,19,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0827.jpg 234,179,264,245,0 274,213,305,233,0 3,399,30,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0828.jpg 146,136,178,200,0 104,167,139,187,0 378,355,406,404,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0829.jpg 376,342,405,394,2 134,127,165,194,0 88,163,125,180,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0830.jpg 243,127,279,195,0 286,164,326,183,0 5,362,38,412,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0831.jpg 1,358,27,406,2 244,138,273,205,0 282,173,318,191,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0832.jpg 288,265,324,284,0 247,256,282,319,0 1,56,38,110,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0833.jpg 91,142,130,159,0 137,101,169,170,0 405,296,416,318,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0834.jpg 9,64,38,113,2 238,250,267,310,0 275,261,307,275,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0835.jpg 111,105,141,124,0 150,73,182,132,0 378,269,406,318,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0836.jpg 10,98,37,147,2 239,283,268,343,0 272,294,309,313,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0837.jpg 230,46,271,118,0 278,81,314,102,0 1,295,23,355,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0838.jpg 381,131,411,182,2 139,329,169,393,0 94,338,132,359,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0839.jpg 108,68,138,86,0 151,33,177,97,0 376,233,405,282,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0840.jpg 388,256,414,304,2 154,12,192,79,0 109,47,149,67,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0841.jpg 91,51,128,69,0 135,15,167,80,0 377,224,405,282,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0842.jpg 382,234,413,286,2 100,57,134,77,0 142,21,175,84,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0843.jpg 266,7,303,79,0 309,51,346,71,0 1,219,22,246,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0844.jpg 14,199,42,250,2 249,1,277,53,0 288,25,320,45,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0845.jpg 272,5,310,28,0 229,1,261,40,0 1,213,22,275,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0846.jpg 1,153,27,200,2 234,354,265,416,0 272,365,309,382,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0847.jpg 262,1,288,67,0 297,37,333,59,0 3,201,33,249,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0848.jpg 378,197,414,245,2 127,1,158,64,0 84,39,121,59,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0849.jpg 242,1,268,37,0 275,10,312,29,0 15,180,44,227,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0850.jpg 12,179,39,223,2 247,1,274,36,0 280,5,313,28,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0851.jpg 241,382,266,416,0 276,386,309,407,0 14,189,41,236,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0852.jpg 1,128,27,178,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0853.jpg 388,158,416,206,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0854.jpg 5,127,31,178,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0855.jpg 1,116,27,169,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0856.jpg 16,126,45,176,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0857.jpg 3,109,32,163,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0858.jpg 3,274,32,325,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0859.jpg 13,77,45,124,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0860.jpg 372,81,399,132,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0861.jpg 59,176,106,246,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0862.jpg 79,186,124,255,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0863.jpg 72,181,122,250,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0864.jpg 15,56,41,109,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0865.jpg 6,309,29,361,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0866.jpg 20,65,44,115,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0868.jpg 5,22,26,75,2 324,401,401,413,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0869.jpg 331,1,394,9,1 22,331,49,384,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0870.jpg 373,40,395,92,2 43,394,105,411,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0871.jpg 306,401,375,415,1 4,25,28,79,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0872.jpg 5,38,29,94,2 323,399,391,415,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0873.jpg 28,18,105,30,1 374,355,404,409,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0874.jpg 43,391,113,401,1 370,1,401,49,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0875.jpg 319,371,389,392,1 320,405,339,416,1 364,401,382,416,1 8,9,25,66,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0876.jpg 36,19,116,37,1 383,356,407,413,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0877.jpg 306,362,384,374,1 302,387,334,404,1 341,393,368,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0878.jpg 32,52,105,69,1 76,22,110,40,1 48,3,72,41,1 395,389,412,415,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0879.jpg 11,1,31,32,2 316,358,392,369,1 314,386,347,404,1 354,387,381,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0880.jpg 305,368,384,381,1 303,394,336,413,1 345,397,369,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0881.jpg 15,340,92,359,1 32,372,57,406,1 66,374,94,387,1 400,1,413,33,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0882.jpg 322,346,404,361,1 318,377,351,395,1 360,380,386,412,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0883.jpg 309,86,387,101,1 307,56,332,76,1 337,39,366,71,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0884.jpg 25,310,99,323,1 39,341,66,370,1 73,339,103,353,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0885.jpg 312,307,378,320,1 309,331,339,352,1 340,334,369,368,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0886.jpg 309,331,336,353,1 312,309,381,320,1 341,338,365,366,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0887.jpg 340,319,374,346,1 309,313,337,331,1 310,288,384,298,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0888.jpg 333,274,404,284,1 327,301,359,316,1 365,304,392,333,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0889.jpg 329,294,401,306,1 324,320,356,337,1 363,324,386,353,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0890.jpg 314,127,379,137,1 310,94,336,112,1 342,77,370,110,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0891.jpg 318,88,395,102,1 312,55,342,79,1 346,34,376,67,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0892.jpg 14,252,87,262,1 30,279,55,313,1 60,278,92,295,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0893.jpg 321,262,394,271,1 319,285,346,304,1 352,293,378,321,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0894.jpg 315,145,389,156,1 311,114,340,134,1 345,95,375,127,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0895.jpg 316,252,386,267,1 313,279,342,294,1 345,283,374,312,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0896.jpg 323,262,393,275,1 311,286,343,306,1 350,293,374,325,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0897.jpg 21,252,88,261,1 33,280,60,311,1 66,277,100,294,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0898.jpg 1,242,75,257,1 12,278,42,311,1 49,273,78,291,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0899.jpg 332,236,406,248,1 331,264,357,279,1 365,269,387,297,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0900.jpg 325,181,400,191,1 325,150,351,167,1 358,131,383,160,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0901.jpg 328,157,351,176,1 364,137,391,167,1 331,187,404,199,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0902.jpg 324,228,392,238,1 321,251,347,268,1 356,258,378,286,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0903.jpg 329,225,397,237,1 321,251,349,269,1 356,257,385,287,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0904.jpg 15,3,126,20,2 365,274,416,306,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0905.jpg 29,20,139,41,2 356,253,416,282,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0906.jpg 1,15,107,41,2 360,267,416,292,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0907.jpg 1,274,45,297,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0908.jpg 1,151,43,165,2 301,374,415,405,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0909.jpg 1,192,65,211,2 108,390,120,401,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0910.jpg 345,205,416,238,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0911.jpg 342,204,416,239,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0912.jpg 1,170,80,194,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0913.jpg 321,175,414,217,2 391,230,415,284,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0914.jpg 1,176,78,213,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0915.jpg 1,168,88,200,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0916.jpg 338,183,416,230,2 405,256,416,315,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0917.jpg 392,133,413,185,2 273,191,409,245,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0918.jpg 1,191,72,229,2 1,240,19,311,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0919.jpg 1,252,88,296,2 1,174,15,236,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0920.jpg 332,141,416,184,2 400,201,416,265,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0921.jpg 2,140,109,192,2 7,201,33,252,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0922.jpg 313,91,410,146,2 394,159,416,213,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0923.jpg 331,98,411,146,2 391,156,412,207,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0924.jpg 345,79,416,138,2 406,156,416,215,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0925.jpg 336,95,416,140,2 399,158,416,216,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0926.jpg 320,98,412,152,2 391,162,411,216,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0927.jpg 308,95,410,149,2 382,153,410,207,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0928.jpg 350,89,402,129,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0929.jpg 1,32,68,74,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0930.jpg 400,273,414,319,2 312,326,416,378,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0931.jpg 314,49,415,106,2 392,120,416,170,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0932.jpg 299,15,415,66,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0933.jpg 306,41,416,93,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0934.jpg 75,37,173,67,2 397,296,416,338,2 311,348,415,405,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0935.jpg 46,359,140,389,2 350,3,416,43,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0936.jpg 249,31,340,62,2 1,306,23,356,2 3,362,102,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0937.jpg 76,366,163,393,2 345,16,416,60,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0938.jpg 76,41,157,68,2 392,297,416,339,2 323,339,416,403,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0939.jpg 65,75,163,107,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0940.jpg 396,31,415,88,2 387,1,416,25,2 61,304,144,328,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0941.jpg 77,305,161,329,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0942.jpg 77,98,161,123,2 396,340,414,381,2 383,388,416,413,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0943.jpg 262,298,355,327,2 1,20,28,68,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0944.jpg 248,251,329,275,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0945.jpg 80,239,177,259,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0946.jpg 80,247,179,279,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0947.jpg 70,198,164,230,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0948.jpg 67,184,167,217,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0949.jpg 71,192,168,222,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0950.jpg 38,149,349,192,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0951.jpg 67,148,401,178,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0952.jpg 32,142,362,183,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0953.jpg 29,150,342,180,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0954.jpg 81,68,373,98,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0955.jpg 4,50,343,105,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0956.jpg 65,55,389,101,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0957.jpg 64,307,114,369,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0958.jpg 304,341,370,406,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0959.jpg 289,34,354,100,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0960.jpg 295,305,357,364,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0961.jpg 299,306,369,361,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0962.jpg 54,179,116,239,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0963.jpg 315,162,375,227,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0964.jpg 300,173,359,236,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0965.jpg 311,179,368,241,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0966.jpg 305,174,361,232,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0967.jpg 74,93,124,143,2 262,395,336,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0968.jpg 54,265,111,325,2 303,1,361,21,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0969.jpg 303,83,354,139,2 87,401,147,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0970.jpg 285,7,343,63,2 74,312,146,350,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0971.jpg 65,341,144,380,2 284,1,344,45,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0972.jpg 63,228,134,269,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0973.jpg 75,226,148,265,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0974.jpg 69,239,146,273,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0975.jpg 69,156,142,192,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0976.jpg 273,223,338,263,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0977.jpg 59,241,141,277,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0978.jpg 77,230,150,263,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0979.jpg 77,225,145,266,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0980.jpg 80,131,159,167,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0981.jpg 78,228,155,267,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0982.jpg 79,310,157,349,2 275,1,325,34,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0983.jpg 79,309,158,350,2 258,1,313,41,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0984.jpg 249,1,313,49,2 81,302,156,346,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0985.jpg 78,70,152,104,2 255,374,309,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0986.jpg 61,1,150,43,2 271,329,340,405,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0987.jpg 67,370,147,410,2 265,16,332,84,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0988.jpg 60,1,143,43,2 233,329,309,395,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0989.jpg 66,377,151,416,2 248,27,321,93,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0990.jpg 75,1,158,22,2 241,352,315,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0991.jpg 102,323,169,386,2 258,11,340,56,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0992.jpg 57,9,137,53,2 261,325,327,393,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0993.jpg 253,322,321,389,2 69,12,145,53,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0994.jpg 254,264,330,338,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0995.jpg 248,265,318,331,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0996.jpg 261,255,333,334,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0997.jpg 97,260,169,328,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0998.jpg 21,208,198,294,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/0999.jpg 218,118,384,206,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1000.jpg 233,215,415,293,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1001.jpg 24,207,197,287,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1002.jpg 224,210,376,288,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1003.jpg 25,203,198,289,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1004.jpg 28,206,197,294,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1005.jpg 23,173,191,258,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1006.jpg 11,161,181,245,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1007.jpg 211,148,382,239,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1008.jpg 28,167,196,254,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1009.jpg 237,156,405,257,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1010.jpg 31,172,197,257,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1011.jpg 3,156,180,227,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1012.jpg 20,77,191,172,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1013.jpg 216,78,388,176,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1014.jpg 34,76,186,167,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1015.jpg 12,47,199,141,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1016.jpg 13,374,67,416,2 318,1,348,13,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1017.jpg 26,1,76,50,2 323,380,397,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1018.jpg 314,1,402,33,2 24,364,78,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1019.jpg 21,1,70,51,2 332,393,383,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1020.jpg 20,363,76,416,2 324,1,404,36,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1021.jpg 321,88,416,152,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1022.jpg 330,245,416,287,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1023.jpg 329,253,416,308,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1024.jpg 323,99,416,150,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1025.jpg 329,279,416,333,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1026.jpg 330,260,416,312,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1027.jpg 325,258,415,305,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1028.jpg 307,160,416,234,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1029.jpg 1,189,98,256,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1030.jpg 1,225,94,280,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1031.jpg 292,28,399,91,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1032.jpg 304,44,408,112,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1033.jpg 302,21,411,84,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1034.jpg 257,338,413,360,2 390,1,408,14,2 29,336,56,393,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1035.jpg 247,334,398,355,2 361,1,385,22,2 29,330,54,394,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1036.jpg 82,229,277,370,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1037.jpg 127,239,328,379,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1038.jpg 128,247,318,382,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1039.jpg 139,233,332,364,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1040.jpg 134,228,320,385,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1041.jpg 140,50,322,183,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1042.jpg 131,233,337,365,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1043.jpg 239,249,400,267,2 13,253,44,303,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1044.jpg 242,258,397,278,2 19,257,41,318,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1045.jpg 236,147,393,169,2 28,107,49,171,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1046.jpg 240,247,394,268,2 28,248,47,304,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1047.jpg 20,239,186,261,2 381,238,405,307,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1048.jpg 4,234,170,264,2 375,266,402,325,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1049.jpg 246,150,410,176,2 18,119,46,177,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1050.jpg 11,256,187,272,2 386,247,413,309,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1051.jpg 241,236,407,267,2 12,265,43,320,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1052.jpg 221,180,374,194,2 10,181,31,234,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1053.jpg 222,195,382,205,2 19,182,42,234,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1054.jpg 33,213,190,228,2 370,178,391,233,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1055.jpg 217,216,380,228,2 23,175,52,227,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1056.jpg 220,27,391,40,2 11,56,30,110,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1057.jpg 33,33,193,43,2 372,41,402,94,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1058.jpg 233,361,391,382,2 21,328,53,385,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1059.jpg 12,20,188,42,2 383,16,413,77,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1061.jpg 24,1,157,50,2 27,363,45,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1062.jpg 23,1,117,37,2 16,366,40,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1063.jpg 1,382,63,414,2 9,1,36,36,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1064.jpg 1,4,25,55,2 40,394,104,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1066.jpg 36,336,165,377,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1067.jpg 32,312,160,369,2 95,401,149,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1068.jpg 26,321,147,367,2 89,401,135,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1069.jpg 42,315,157,357,2 75,390,146,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1070.jpg 35,118,150,160,2 79,9,241,37,2 31,32,149,83,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1071.jpg 44,263,151,301,2 37,330,149,380,2 82,376,241,400,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1072.jpg 20,257,146,311,2 13,346,133,396,2 66,402,240,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1073.jpg 42,36,142,86,2 84,19,239,39,2 39,115,150,157,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1074.jpg 269,253,391,303,2 286,333,394,383,2 187,386,349,401,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1075.jpg 22,270,142,310,2 20,343,126,394,2 69,388,225,409,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1076.jpg 13,255,141,314,2 5,346,130,398,2 56,407,230,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1077.jpg 263,216,372,253,2 274,283,373,332,2 179,324,330,346,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1078.jpg 45,82,142,136,2 82,66,240,93,2 40,164,151,198,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1079.jpg 5,237,138,264,2 21,304,138,370,2 75,340,245,382,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1080.jpg 25,219,136,254,2 19,289,125,345,2 75,333,225,358,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1081.jpg 39,220,158,256,2 31,289,140,341,2 85,333,246,359,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1082.jpg 44,123,156,193,2 97,112,257,150,2 35,223,159,250,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1083.jpg 28,149,148,178,2 35,210,145,267,2 82,253,236,282,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1084.jpg 252,163,373,194,2 262,220,369,279,2 170,261,313,291,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1085.jpg 44,152,166,188,2 50,216,152,274,2 101,262,251,279,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1086.jpg 94,70,259,184,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1087.jpg 92,185,275,309,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1088.jpg 102,194,288,305,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1089.jpg 161,39,324,132,2 324,354,416,389,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1090.jpg 107,20,268,124,2 1,331,76,378,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1091.jpg 103,40,254,128,2 1,335,108,374,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1092.jpg 172,309,364,387,2 331,5,416,47,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1093.jpg 99,40,262,132,2 1,342,110,392,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1094.jpg 1,30,110,74,2 94,291,254,378,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1095.jpg 89,14,254,114,2 1,327,77,378,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1096.jpg 119,1,255,67,2 1,256,117,292,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1097.jpg 118,1,256,70,2 4,233,114,291,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1098.jpg 1,232,115,291,2 115,1,256,67,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1099.jpg 141,369,248,416,2 1,109,100,172,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1100.jpg 159,1,294,66,2 299,231,416,290,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1101.jpg 1,172,109,225,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1102.jpg 303,182,407,233,2 166,1,216,22,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1103.jpg 1,159,112,227,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1104.jpg 311,143,416,182,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1105.jpg 1,230,110,284,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1106.jpg 6,243,111,286,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1107.jpg 1,133,116,183,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1108.jpg 2,121,106,167,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1109.jpg 1,76,113,123,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1110.jpg 299,299,407,346,2 1,17,48,38,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1111.jpg 342,25,416,41,2 9,287,118,333,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1112.jpg 1,296,103,342,2 350,23,416,42,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1113.jpg 4,74,123,121,2 339,392,416,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1114.jpg 354,398,416,416,2 5,68,116,117,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1115.jpg 313,90,416,131,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1116.jpg 345,335,416,363,2 1,23,112,70,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1117.jpg 1,55,61,85,2 301,345,406,394,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1118.jpg 298,324,403,369,2 1,81,78,102,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1119.jpg 1,331,78,354,2 314,41,416,92,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1120.jpg 1,326,98,375,2 376,86,416,99,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1121.jpg 356,311,416,330,2 2,42,115,89,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1122.jpg 1,257,91,292,2 305,1,405,20,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1123.jpg 1,137,100,171,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1124.jpg 316,246,410,279,2 385,303,416,374,2 20,2,103,24,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1125.jpg 4,198,106,238,2 8,264,41,327,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1126.jpg 4,197,48,266,2 12,136,96,174,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1127.jpg 1,130,106,164,2 1,191,33,258,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1128.jpg 318,123,416,157,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1129.jpg 312,149,407,188,2 373,210,411,277,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1130.jpg 306,141,403,179,2 375,198,406,263,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1131.jpg 1,218,54,278,2 10,306,97,345,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1132.jpg 348,65,416,98,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1133.jpg 331,79,415,126,2 395,152,416,209,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1134.jpg 390,147,416,209,2 326,82,416,124,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1135.jpg 342,80,415,122,2 396,155,416,213,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1136.jpg 333,306,416,345,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1137.jpg 323,86,410,124,2 376,146,409,198,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1138.jpg 94,1,240,91,2 294,285,416,370,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1139.jpg 27,367,119,416,2 342,18,416,60,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1140.jpg 318,8,416,53,2 385,77,416,137,2 45,373,143,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1141.jpg 324,10,416,56,2 385,74,416,130,2 58,356,154,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1142.jpg 1,73,34,127,2 1,1,91,45,2 272,337,359,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1143.jpg 60,8,147,62,2 383,278,416,325,2 327,348,416,393,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1144.jpg 263,311,362,351,2 1,47,32,114,2 1,1,42,34,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1145.jpg 382,316,410,367,2 66,50,153,108,2 367,389,411,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1146.jpg 68,304,155,360,2 378,47,413,108,2 368,1,412,28,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1147.jpg 66,62,153,102,2 394,329,414,386,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1148.jpg 65,304,154,357,2 385,49,413,102,2 371,1,413,34,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1149.jpg 141,318,416,346,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1150.jpg 1,94,268,119,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1151.jpg 4,103,264,131,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1152.jpg 160,102,416,130,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1153.jpg 149,292,416,315,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1154.jpg 5,98,255,132,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1155.jpg 3,42,274,66,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1156.jpg 4,323,266,360,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1157.jpg 156,53,416,82,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1158.jpg 1,27,277,49,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1159.jpg 145,28,416,47,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1163.jpg 153,396,200,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1164.jpg 154,351,238,409,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1165.jpg 130,1,200,55,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1166.jpg 199,15,270,71,2 1,281,25,309,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1167.jpg 128,345,206,405,2 386,88,416,125,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1168.jpg 398,120,416,146,2 139,345,211,403,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1169.jpg 116,1,184,49,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1170.jpg 142,295,216,355,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1171.jpg 139,291,209,357,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1172.jpg 151,295,219,349,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1173.jpg 143,120,209,175,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1174.jpg 140,112,212,172,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1175.jpg 142,114,225,176,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1176.jpg 140,242,229,305,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1177.jpg 145,153,227,214,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1178.jpg 146,195,216,250,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1179.jpg 140,201,220,255,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1180.jpg 138,160,214,219,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1181.jpg 1,174,123,236,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1182.jpg 4,160,133,225,2 222,389,282,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1183.jpg 16,175,143,232,2 229,392,278,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1184.jpg 291,179,414,239,2 133,1,171,21,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1185.jpg 2,191,134,252,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1186.jpg 134,231,213,283,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1187.jpg 131,133,200,185,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1188.jpg 134,127,200,182,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1189.jpg 136,231,203,284,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1190.jpg 125,119,191,174,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1191.jpg 120,129,196,185,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1192.jpg 201,119,272,175,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1193.jpg 223,9,294,69,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1194.jpg 157,5,224,62,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1195.jpg 146,22,215,75,2 1,294,27,325,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1196.jpg 1,249,46,289,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1197.jpg 1,252,39,291,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1198.jpg 1,122,39,162,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1199.jpg 1,124,23,167,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1201.jpg 1,180,43,223,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1202.jpg 388,162,416,205,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1203.jpg 1,96,31,139,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1204.jpg 1,264,31,304,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1205.jpg 369,110,409,151,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1206.jpg 1,122,25,156,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1207.jpg 2,121,22,161,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1208.jpg 71,346,170,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1209.jpg 1,13,45,58,2 70,333,162,407,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1210.jpg 257,11,347,84,2 381,344,414,396,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1211.jpg 76,6,161,79,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1212.jpg 253,339,343,411,2 375,32,416,85,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1213.jpg 371,20,416,73,2 250,318,334,393,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1214.jpg 9,92,128,160,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1215.jpg 282,79,409,137,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1216.jpg 6,86,134,143,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1217.jpg 12,98,143,150,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1218.jpg 17,258,146,310,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1219.jpg 7,76,131,139,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1220.jpg 282,93,410,153,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1221.jpg 3,94,126,152,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1222.jpg 19,95,146,151,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1223.jpg 2,83,129,147,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1224.jpg 27,20,136,75,2 359,338,416,368,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1225.jpg 27,32,136,77,2 349,329,415,365,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1226.jpg 300,24,414,90,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1227.jpg 176,132,253,186,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1228.jpg 75,126,105,145,0 109,114,131,170,0 91,203,122,236,0 27,195,162,226,1 184,268,204,286,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1229.jpg 230,203,252,217,0 394,77,415,115,2 256,194,275,215,1 259,313,343,334,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1230.jpg 62,242,95,267,0 212,256,236,289,0 341,11,381,60,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1231.jpg 112,220,137,245,1 135,196,175,232,0 184,164,206,196,0 3,152,19,201,2 155,1,187,10,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1232.jpg 8,86,25,120,0 91,389,102,398,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1233.jpg 164,102,212,125,2 362,95,396,120,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1234.jpg 31,67,58,101,0 79,297,107,318,0 111,286,140,349,0 341,143,400,170,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1235.jpg 42,141,148,162,1 88,150,114,176,0 373,113,410,177,1 5,255,18,266,0 21,245,35,290,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1236.jpg 148,189,183,219,2 224,210,246,229,1 220,234,244,242,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1237.jpg 19,130,46,151,0 268,47,296,65,0 123,339,149,353,0 294,261,395,277,2 355,270,412,313,2 349,326,413,352,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1238.jpg 17,215,39,232,0 338,143,402,174,1 310,367,334,382,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1239.jpg 192,175,238,198,2 81,314,220,413,2 233,396,257,414,1 352,229,385,282,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1240.jpg 149,120,206,163,2 224,45,245,62,1 225,72,243,80,1 29,362,135,372,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1241.jpg 29,102,77,155,2 238,170,314,180,1 254,179,282,203,0 164,391,217,409,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1242.jpg 193,41,214,92,1 300,42,357,88,2 29,310,136,321,2 224,309,271,358,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1243.jpg 7,94,29,109,0 223,29,235,52,0 294,239,394,290,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1244.jpg 196,76,228,98,2 246,1,291,38,0 35,300,59,332,0 240,230,293,284,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1245.jpg 134,42,186,85,2 315,163,340,179,0 310,244,335,257,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1246.jpg 69,211,95,233,0 190,279,203,291,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1247.jpg 1,52,53,71,2 252,138,277,157,0 282,127,307,184,0 315,330,340,345,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1248.jpg 213,58,238,89,0 202,220,228,257,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1249.jpg 336,1,370,18,2 61,206,71,213,0 295,234,320,249,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1250.jpg 43,37,92,81,2 113,329,216,395,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1251.jpg 66,135,102,171,0 62,200,193,296,2 219,1,245,6,0 257,1,276,33,0 301,271,416,288,2 372,287,416,324,2 371,344,414,365,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1252.jpg 110,171,177,179,1 245,26,289,82,0 215,226,246,259,0 11,272,34,287,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1253.jpg 16,80,37,113,0 270,172,378,202,1 337,327,410,353,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1254.jpg 98,29,125,46,0 169,72,232,113,2 221,196,246,218,0 24,266,59,296,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1255.jpg 88,41,114,55,0 252,4,283,34,0 199,2,296,20,1 306,189,384,225,1 209,286,236,314,0 9,301,43,339,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1256.jpg 148,143,227,185,1 97,396,103,403,0 16,285,22,294,0 392,366,412,399,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1257.jpg 81,152,111,173,0 23,268,53,304,0 325,265,355,300,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1258.jpg 114,169,126,180,0 9,37,20,48,0 16,286,40,305,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1259.jpg 19,18,30,38,0 107,370,133,386,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1260.jpg 153,120,203,161,2 16,172,35,222,1 5,184,16,199,0 230,186,257,205,0 265,174,291,231,0 214,332,233,378,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1261.jpg 20,79,37,100,1 42,91,64,105,1 14,111,63,122,1 287,94,311,104,0 155,309,181,340,0 340,186,386,223,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1262.jpg 108,151,130,165,0 284,184,307,192,0 20,248,45,267,0 213,342,412,371,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1263.jpg 1,114,20,147,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1264.jpg 61,168,90,194,2 156,350,205,379,2 241,337,259,368,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1265.jpg 271,43,363,53,2 335,52,391,89,2 329,98,391,124,2 207,198,236,222,0 168,386,179,396,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1266.jpg 36,1,44,12,1 55,1,78,11,1 27,22,76,30,1 333,187,386,208,2 10,285,66,306,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1267.jpg 24,41,63,122,0 168,328,240,365,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1268.jpg 87,28,107,39,0 368,279,416,314,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1269.jpg 130,67,152,81,0 324,175,382,199,1 210,320,225,358,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1270.jpg 165,41,211,62,2 4,190,25,227,2 166,236,212,255,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1271.jpg 97,44,122,61,0 211,154,330,169,1 262,162,289,188,0 237,285,262,301,0 267,276,290,325,0 84,188,92,195,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1272.jpg 209,14,235,57,0 219,178,227,185,0 101,243,135,260,0 210,366,302,375,1 248,372,274,395,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1273.jpg 98,147,172,188,2 63,184,135,210,1 245,1,290,37,0 343,323,389,354,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1274.jpg 77,99,100,116,0 106,91,127,140,0 140,242,165,254,0 261,193,271,204,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1275.jpg 49,1,70,21,0 222,231,244,263,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1276.jpg 24,1,127,32,0 353,207,381,232,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1277.jpg 77,132,105,150,0 108,123,135,176,0 190,117,198,130,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1278.jpg 33,74,65,112,0 52,263,76,296,0 260,339,283,356,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1279.jpg 350,152,391,193,0 16,17,32,37,0 276,234,374,301,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1280.jpg 68,109,86,123,0 93,101,119,146,0 210,203,329,217,1 262,214,287,229,0 125,349,210,404,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1281.jpg 42,166,83,207,2 373,123,415,160,2 72,248,98,263,0 103,239,127,288,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1282.jpg 226,76,249,101,2 7,355,24,395,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1283.jpg 140,155,208,191,1 14,236,42,253,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1284.jpg 5,255,27,298,2 7,311,78,346,2 392,40,413,78,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1285.jpg 26,43,44,64,1 48,55,63,68,1 22,73,64,82,1 232,91,342,103,1 260,101,290,127,0 4,244,63,273,2 231,365,255,396,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1286.jpg 31,128,67,193,1 22,255,43,277,1 52,265,67,283,1 18,284,65,297,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1287.jpg 322,171,370,194,1 237,245,281,285,0 70,379,138,412,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1288.jpg 71,161,144,197,1 260,346,285,359,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1289.jpg 140,232,185,277,0 113,265,142,301,1 173,161,234,197,2 321,119,376,168,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1290.jpg 39,16,65,56,0 25,199,65,213,1 73,199,101,223,0 246,176,274,190,0 282,163,307,201,0 128,355,186,383,1 325,384,357,416,0 366,241,405,267,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1291.jpg 166,409,176,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1292.jpg 58,49,105,102,2 43,284,70,321,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1293.jpg 40,52,70,82,0 212,167,239,201,0 198,253,222,296,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1294.jpg 9,28,34,57,0 246,128,270,145,0 276,122,300,170,0 131,219,210,235,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1295.jpg 219,78,280,111,1 104,248,187,262,2 164,264,186,293,2 194,243,216,269,1 224,251,243,273,1 190,275,238,288,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1296.jpg 37,56,166,76,1 89,66,124,94,0 220,9,282,40,1 40,310,151,323,1 88,318,115,343,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1297.jpg 15,64,57,134,1 137,368,214,404,1 234,100,273,145,0 395,279,414,294,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1298.jpg 229,16,269,58,2 44,317,152,329,1 92,321,119,347,0 374,363,398,397,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1299.jpg 16,167,41,191,0 261,73,289,92,0 182,272,304,285,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1300.jpg 28,133,66,189,2 206,13,236,47,0 82,364,107,381,0 114,360,137,406,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1301.jpg 327,310,414,355,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1302.jpg 8,88,28,130,0 3,259,76,285,2 373,325,416,355,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1303.jpg 311,165,382,204,1 164,270,196,287,2 195,298,234,318,2 6,192,19,217,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1304.jpg 115,181,221,210,1 29,1,45,25,2 30,241,43,261,2 49,247,77,266,1 14,266,71,279,1 364,1,415,12,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1305.jpg 63,29,197,135,2 358,261,390,304,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1306.jpg 43,13,72,59,0 271,398,296,410,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1307.jpg 124,184,169,214,2 324,7,382,60,2 200,301,306,319,1 249,312,276,334,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1308.jpg 192,58,219,73,1 91,268,113,311,1 67,276,88,288,0 364,194,416,223,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1309.jpg 199,70,229,125,1 161,344,225,366,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1310.jpg 73,1,108,29,2 367,1,394,13,0 58,379,113,407,1 353,373,388,407,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1311.jpg 58,149,106,202,0 365,197,413,225,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1312.jpg 69,200,140,234,1 53,244,109,272,1 219,168,266,224,0 279,249,304,275,1 330,246,346,256,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1313.jpg 1,28,26,90,2 7,104,86,137,2 20,272,35,310,1 10,279,16,294,0 180,397,214,413,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1314.jpg 66,311,138,354,1 234,391,264,407,0 267,382,288,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1315.jpg 31,222,173,243,1 90,231,125,255,0 224,9,293,39,1 166,26,197,49,2 310,372,367,411,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1316.jpg 288,56,310,82,1 315,33,358,70,1 4,251,68,277,2 204,287,339,306,1 262,294,293,325,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1317.jpg 34,13,61,50,0 236,1,270,33,0 206,307,296,320,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1318.jpg 128,19,146,35,0 218,285,243,345,1 310,4,341,14,2 265,394,294,413,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1319.jpg 113,168,189,197,1 354,46,416,100,2 16,262,46,283,0 348,340,392,385,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1320.jpg 18,6,37,60,1 6,19,18,37,0 226,170,255,225,1 294,76,335,113,2 213,280,239,316,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1321.jpg 2,40,52,61,2 400,276,416,314,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1322.jpg 190,89,210,111,1 216,100,233,116,1 180,120,235,134,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1323.jpg 185,240,237,266,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1324.jpg 182,234,213,285,2 270,395,357,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1325.jpg 7,32,18,42,0 94,143,101,149,0 201,56,219,83,2 228,70,249,89,1 191,95,246,107,1 179,249,207,284,0 86,394,113,412,0 120,386,140,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1326.jpg 194,164,222,202,0 264,39,273,46,0 36,296,90,358,2 216,291,234,310,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1327.jpg 206,377,253,407,2 206,337,262,361,2 256,405,316,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1328.jpg 13,59,41,127,2 234,49,355,134,2 38,336,74,384,2 337,303,361,331,0 296,324,416,336,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1329.jpg 53,321,105,351,2 196,224,252,255,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1330.jpg 28,88,99,114,2 28,130,93,162,2 60,157,150,174,2 218,117,282,154,2 220,201,249,225,0 13,282,95,324,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1331.jpg 4,95,19,140,2 218,336,247,359,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1332.jpg 185,7,222,56,0 354,187,416,210,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1333.jpg 67,185,118,223,2 216,62,243,83,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1334.jpg 1,166,54,182,1 9,189,57,201,1 62,201,131,227,1 113,388,180,401,1 150,363,174,391,0 262,374,316,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1336.jpg 22,19,78,55,2 191,2,201,10,0 238,153,267,188,0 257,255,338,285,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1337.jpg 226,52,245,92,2 246,180,270,203,1 94,359,146,402,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1338.jpg 288,83,379,115,1 174,225,203,241,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1339.jpg 94,328,222,415,2 344,182,393,235,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1340.jpg 1,5,85,34,2 268,96,356,129,1 97,409,110,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1342.jpg 13,370,58,409,0 372,328,388,358,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1343.jpg 178,154,242,184,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1344.jpg 197,90,221,128,0 238,91,271,110,2 242,173,258,213,1 49,402,68,415,0 332,360,395,390,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1345.jpg 5,229,86,273,2 206,309,228,346,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1346.jpg 206,310,299,355,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1347.jpg 128,366,196,379,1 173,337,195,367,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1348.jpg 3,70,29,97,0 42,245,62,274,0 170,290,258,343,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1349.jpg 176,67,185,74,0 255,287,297,328,2 222,344,236,358,1 220,362,235,381,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1350.jpg 308,48,391,101,1 228,358,315,409,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1351.jpg 227,202,302,234,1 369,4,382,31,1 394,2,412,37,1 109,310,134,331,0 315,319,337,365,0 342,338,364,355,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1352.jpg 176,30,194,48,0 374,164,413,194,2 127,289,234,307,1 161,264,192,297,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1353.jpg 225,119,248,168,1 53,1,108,16,2 111,362,154,399,2 158,342,179,373,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1354.jpg 187,136,246,162,1 403,76,413,101,0 53,330,127,364,1 399,305,414,335,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1355.jpg 55,67,120,94,2 104,261,155,308,2 322,130,363,172,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1356.jpg 360,1,382,43,0 388,16,414,33,0 181,157,199,193,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1357.jpg 179,166,196,196,0 156,291,192,310,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1358.jpg 1,73,28,114,2 206,388,247,399,1 205,405,217,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1359.jpg 191,63,256,102,2 144,134,192,160,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1360.jpg 315,28,335,38,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1361.jpg 229,217,319,275,2 48,309,123,337,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1362.jpg 222,4,239,25,0 249,77,276,96,0 282,52,302,105,0 217,334,238,362,0 294,197,315,221,1 334,186,360,204,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1363.jpg 190,115,216,149,0 323,148,358,188,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1364.jpg 67,34,165,73,1 149,267,177,285,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1365.jpg 185,35,210,54,0 385,115,403,149,0 146,203,214,245,1 84,385,111,416,0 25,391,76,415,1 264,346,303,381,0 309,332,325,357,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1366.jpg 158,168,206,188,1 83,255,175,281,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1367.jpg 32,134,110,160,1 374,111,392,137,0 322,370,371,409,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1368.jpg 53,28,123,54,2 52,209,106,240,2 240,185,249,201,0 255,167,284,233,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1369.jpg 1,181,18,210,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1370.jpg 224,264,252,304,0 81,400,116,415,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1371.jpg 224,179,243,187,1 220,196,237,211,1 58,261,94,316,1 243,307,366,397,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1372.jpg 177,18,246,36,1 24,290,46,320,0 268,202,301,228,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1373.jpg 71,43,94,61,0 103,24,126,65,1 178,5,239,25,2 31,319,107,355,2 34,271,113,299,2 70,354,168,367,2 216,228,288,267,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1374.jpg 91,22,188,46,1 219,14,270,53,2 190,313,222,329,2 294,256,316,271,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1375.jpg 213,156,339,182,1 270,140,295,171,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1376.jpg 183,86,216,168,2 343,344,413,362,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1377.jpg 152,1,170,21,0 175,1,197,19,0 389,40,408,76,0 254,376,281,394,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1378.jpg 120,213,185,229,1 153,224,176,252,0 61,371,129,406,1 5,92,68,120,2 374,65,415,97,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1379.jpg 152,85,173,129,0 182,119,304,187,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1380.jpg 193,155,217,177,0 296,155,413,173,1 337,161,361,192,0 231,286,309,327,2 73,322,107,359,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1381.jpg 74,1,98,23,1 28,139,65,158,1 222,168,288,206,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1382.jpg 166,32,175,42,0 355,146,379,168,0 14,313,134,363,2 244,301,283,323,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1383.jpg 137,310,161,352,0 165,331,187,346,0 213,388,231,416,0 374,176,416,207,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1384.jpg 258,24,377,47,1 159,216,177,235,1 340,328,383,376,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1385.jpg 332,228,358,253,0 297,249,416,270,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1386.jpg 56,119,161,168,1 345,7,399,23,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1387.jpg 45,272,117,310,1 225,66,243,95,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1388.jpg 55,227,113,286,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1389.jpg 53,50,97,106,1 197,216,231,256,2 320,141,413,182,2 389,361,416,412,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1390.jpg 66,27,88,43,0 94,7,118,51,0 330,112,379,137,1 401,276,414,317,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1391.jpg 321,80,342,94,0 109,327,152,367,0 150,310,170,337,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1392.jpg 228,258,250,277,0 261,236,282,282,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1393.jpg 106,138,131,161,0 323,165,347,206,0 349,166,377,188,0 167,30,190,74,2 50,357,161,413,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1394.jpg 149,136,185,154,1 232,45,255,59,0 264,22,291,64,0 67,276,91,292,0 97,254,124,304,0 331,299,411,346,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1395.jpg 8,43,96,100,2 229,70,276,118,2 4,355,76,412,2 10,313,74,341,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1396.jpg 362,33,382,52,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1397.jpg 31,128,61,167,0 337,242,357,257,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1398.jpg 249,101,284,140,0 53,194,122,221,2 391,408,407,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1399.jpg 332,6,354,45,0 362,28,384,47,0 240,166,332,210,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1400.jpg 128,113,194,152,1 362,301,377,313,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1401.jpg 17,126,121,168,2 70,213,183,299,2 285,289,310,302,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1402.jpg 47,8,104,40,2 61,249,124,280,1 276,335,287,344,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1403.jpg 22,160,150,216,2 220,57,266,107,0 390,367,413,378,1 385,382,408,401,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1404.jpg 46,124,102,146,1 328,16,388,41,2 283,177,330,212,0 328,204,359,228,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1405.jpg 38,137,82,173,2 304,349,413,368,1 345,364,373,391,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1406.jpg 31,101,71,158,1 210,125,253,170,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1407.jpg 22,112,126,168,2 1,204,25,237,1 149,319,167,361,0 174,325,198,344,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1408.jpg 29,59,143,143,2 367,179,410,193,1 369,199,384,210,1 129,317,216,342,1 168,334,191,365,0 220,312,316,364,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1409.jpg 188,89,228,131,0 110,254,159,307,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1410.jpg 144,29,165,42,0 246,1,297,13,1 384,129,415,184,1 312,354,337,373,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1411.jpg 83,257,176,284,1 267,388,412,408,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1412.jpg 5,199,22,243,0 186,338,213,368,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1413.jpg 99,264,182,292,1 313,122,332,140,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1414.jpg 1,137,17,176,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1415.jpg 15,223,78,239,1 214,245,247,295,1 174,394,185,407,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1416.jpg 228,19,246,54,0 31,370,55,407,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1417.jpg 93,263,174,291,1 73,1,98,25,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1418.jpg 182,4,237,28,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1419.jpg 113,104,140,154,0 78,125,104,146,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1420.jpg 10,43,33,81,0 364,111,404,134,1 97,242,141,282,2 349,189,365,213,1 374,191,401,210,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1421.jpg 243,2,328,33,1 346,179,372,201,0 306,204,413,217,1 186,405,203,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1422.jpg 52,273,139,331,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1423.jpg 185,113,210,148,0 15,214,43,285,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1424.jpg 159,1,179,46,0 183,19,207,38,0 298,276,401,289,2 230,37,256,66,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1425.jpg 198,51,215,83,0 173,288,228,312,1 278,316,307,335,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1426.jpg 84,39,190,85,1 146,340,180,379,0 6,244,30,260,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1427.jpg 347,151,376,171,0 1,13,34,44,2 9,263,82,319,2 314,286,412,304,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1428.jpg 162,133,182,148,0 288,1,373,10,1 205,322,220,339,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1429.jpg 229,202,256,220,0 262,179,281,228,0 241,62,332,108,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1430.jpg 4,60,83,100,2 301,46,413,68,1 343,59,373,92,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1431.jpg 140,317,161,361,0 163,333,178,350,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1432.jpg 142,146,163,188,0 169,167,190,186,0 212,61,259,82,1 25,308,70,334,1 207,314,246,334,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1433.jpg 164,85,188,123,0 233,82,261,122,0 326,316,372,355,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1434.jpg 37,135,110,169,1 49,287,137,330,1 205,363,228,398,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1435.jpg 106,113,155,156,2 350,313,383,372,0 383,339,410,359,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1436.jpg 311,343,414,360,1 354,353,382,384,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1437.jpg 73,13,138,43,1 197,164,228,173,1 37,323,62,362,0 297,343,411,363,1 330,325,352,352,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1439.jpg 365,327,404,337,1 363,341,376,355,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1440.jpg 90,242,179,267,1 193,94,215,115,0 197,237,265,281,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1441.jpg 126,57,198,97,2 203,168,290,209,2 201,119,291,150,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1442.jpg 160,154,186,175,2 178,183,210,221,2 214,326,241,379,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1443.jpg 31,89,55,125,0 51,206,107,234,1 336,307,358,326,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1444.jpg 237,77,256,110,0 50,384,105,413,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1445.jpg 58,1,85,16,1 363,6,408,67,0 39,228,94,249,1 343,255,365,271,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1446.jpg 40,145,91,175,2 44,281,116,308,1 246,208,273,229,2 262,243,307,291,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1447.jpg 48,162,85,210,1 263,105,363,138,1 333,240,349,255,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1448.jpg 231,10,271,54,2 328,182,340,194,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1449.jpg 294,180,315,196,0 139,326,242,344,1 177,336,206,367,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1450.jpg 235,180,266,219,1 185,346,219,370,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1451.jpg 157,57,166,70,0 171,257,243,306,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1452.jpg 174,42,199,69,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1453.jpg 27,14,78,26,1 70,199,165,232,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1454.jpg 183,313,210,339,0 146,338,240,353,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1455.jpg 139,185,162,196,0 245,1,288,36,2 155,250,218,279,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1456.jpg 209,89,238,137,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1457.jpg 151,120,176,167,0 179,142,199,157,0 13,329,157,400,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1458.jpg 185,109,219,152,0 58,213,131,258,1 307,303,330,319,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1459.jpg 253,96,356,118,1 254,236,300,276,2 18,340,28,357,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1460.jpg 88,80,185,110,1 267,107,360,131,1 161,363,196,397,0 7,233,37,272,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1461.jpg 54,126,110,148,2 212,249,234,282,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1462.jpg 55,292,149,342,1 258,325,362,412,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1463.jpg 146,191,167,207,0 364,280,400,328,0 11,279,34,324,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1464.jpg 6,111,129,179,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1465.jpg 45,49,127,85,2 116,297,216,319,1 151,310,169,337,0 249,177,288,223,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1466.jpg 219,22,252,61,0 54,267,138,308,1 197,304,229,320,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1467.jpg 35,1,89,31,2 318,107,410,174,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1468.jpg 3,15,18,43,2 61,209,131,252,1 222,273,316,320,1 151,394,184,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1469.jpg 64,77,132,116,1 101,208,194,235,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1470.jpg 219,51,289,76,1 187,201,251,242,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1471.jpg 107,139,147,174,2 188,312,214,371,0 219,303,231,346,1 391,176,416,210,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1472.jpg 86,91,186,116,1 79,303,113,350,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1473.jpg 207,73,234,90,1 215,94,240,107,1 401,137,416,166,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1474.jpg 13,191,42,228,0 232,79,305,122,1 375,330,404,367,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1475.jpg 35,77,70,113,0 360,276,402,320,2 384,193,400,211,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1476.jpg 48,246,91,302,1 346,307,379,338,0 307,330,413,358,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1477.jpg 115,155,148,173,0 403,95,416,118,1 8,364,84,401,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1478.jpg 240,1,273,31,2 317,288,341,311,0 289,302,391,322,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1479.jpg 93,161,130,185,2 243,30,266,47,0 278,9,299,58,0 207,193,246,246,1 123,391,157,416,2 176,379,191,403,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1480.jpg 177,79,204,125,2 110,379,164,416,2 321,295,341,311,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1482.jpg 185,31,193,49,0 375,112,412,164,0 198,310,235,329,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1483.jpg 194,337,218,364,0 340,309,410,358,2 341,273,411,291,2 277,341,371,364,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1484.jpg 104,217,130,235,2 388,1,414,28,2 244,255,343,281,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1485.jpg 88,261,169,283,1 170,312,219,333,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1486.jpg 134,118,194,154,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1487.jpg 5,79,39,116,0 12,217,40,273,2 325,2,346,27,0 350,2,379,19,0 225,322,280,342,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1488.jpg 229,10,293,65,2 348,350,381,397,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1489.jpg 18,17,45,77,2 218,43,279,91,2 182,202,195,214,0 161,401,187,416,0 213,297,304,336,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1490.jpg 51,200,67,210,2 80,200,90,214,2 172,376,223,394,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1491.jpg 182,58,257,94,2 81,234,122,246,1 329,328,354,382,0 356,352,383,372,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1492.jpg 61,265,82,282,0 90,248,111,293,0 208,334,233,379,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1493.jpg 4,126,31,170,0 211,1,234,29,1 233,133,259,149,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1494.jpg 51,1,82,31,1 3,249,108,284,2 194,191,267,234,2 196,149,270,173,2 232,225,335,240,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1495.jpg 224,213,289,252,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1496.jpg 17,25,40,88,2 146,403,164,413,0 405,356,415,374,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1497.jpg 182,111,216,149,0 43,195,67,225,0 359,338,367,349,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1498.jpg 70,239,128,268,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1499.jpg 137,58,158,68,0 72,219,173,297,2 179,235,265,280,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1500.jpg 144,198,186,213,1 310,19,339,31,0 15,332,48,392,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1501.jpg 273,168,365,209,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1502.jpg 167,140,251,164,2 234,264,258,285,0 266,240,291,289,0 7,382,36,404,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1503.jpg 10,276,33,317,0 314,257,335,279,0 276,276,391,290,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1504.jpg 203,23,250,76,1 152,158,174,174,2 198,357,217,387,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1505.jpg 222,146,242,191,1 348,288,400,314,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1506.jpg 82,86,160,112,1 268,73,357,101,1 211,336,245,389,1 45,179,106,197,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1507.jpg 270,276,370,305,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1508.jpg 168,162,198,188,0 134,188,217,198,0 322,403,334,413,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1509.jpg 50,134,113,164,2 33,298,82,322,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1510.jpg 111,58,167,85,2 236,56,321,103,1 39,247,116,289,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1511.jpg 207,239,251,293,1 267,149,297,169,2 26,249,54,280,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1512.jpg 10,31,134,93,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1513.jpg 13,122,136,187,2 385,258,416,306,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1514.jpg 245,74,291,114,2 273,292,328,341,2 16,284,142,349,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1515.jpg 175,288,203,332,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1516.jpg 234,149,263,188,0 25,292,70,319,1 394,21,414,55,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1517.jpg 55,76,143,122,1 328,397,352,413,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1518.jpg 355,261,382,319,0 386,288,416,307,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1519.jpg 206,50,244,90,0 316,391,376,413,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1520.jpg 216,22,261,59,2 223,11,330,21,2 217,70,276,91,2 2,138,60,173,2 48,373,70,408,0 332,301,416,317,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1521.jpg 232,121,267,141,1 113,199,146,214,2 93,300,116,315,0 375,317,396,346,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1522.jpg 50,43,122,91,1 36,207,64,234,0 201,361,219,386,0 185,1,247,25,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1523.jpg 80,157,168,215,2 228,191,279,219,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1524.jpg 227,182,258,204,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1525.jpg 4,73,19,111,1 208,22,254,55,2 225,10,321,20,2 210,69,260,94,2 210,301,241,312,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1526.jpg 41,34,72,76,0 258,95,296,140,2 12,363,113,413,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1527.jpg 211,120,303,167,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1528.jpg 94,105,171,137,1 170,246,235,294,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1529.jpg 64,49,134,95,1 211,112,264,143,2 23,241,65,270,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1530.jpg 167,267,191,283,1 373,195,416,231,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1532.jpg 213,169,250,222,1 325,4,390,34,1 143,249,219,261,1 185,225,210,249,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1533.jpg 308,51,415,69,1 350,61,379,93,0 49,300,113,332,1 235,318,309,357,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1534.jpg 222,22,282,58,1 85,242,127,282,2 228,238,304,301,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1535.jpg 215,16,244,60,0 273,252,329,305,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1536.jpg 200,272,228,301,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1537.jpg 250,144,284,189,0 1,8,72,28,2 204,230,250,272,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1538.jpg 225,231,311,288,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1539.jpg 82,161,127,197,2 225,20,319,76,2 92,228,201,254,1 222,271,317,340,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1540.jpg 157,129,173,142,0 125,211,240,231,1 165,221,192,254,0 388,343,416,358,1 384,364,405,379,1 69,389,91,413,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1541.jpg 143,17,166,31,0 176,193,216,225,0 49,359,123,388,1 382,273,414,304,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1542.jpg 230,22,289,53,1 370,191,379,217,1 388,194,402,219,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1543.jpg 111,314,137,343,0 49,332,184,359,1 276,276,323,328,2 370,164,410,175,1 371,180,391,199,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1544.jpg 94,70,182,102,1 52,240,77,252,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1545.jpg 219,352,305,399,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1546.jpg 70,1,140,28,1 170,160,191,191,0 192,176,244,192,1 243,150,287,179,2 1,325,28,375,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1547.jpg 243,313,390,407,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1548.jpg 207,21,227,66,2 231,18,282,49,2 350,175,361,191,1 374,179,385,191,0 13,351,38,384,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1549.jpg 131,2,188,7,1 314,101,335,155,0 340,115,361,129,0 97,302,149,345,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1550.jpg 37,170,73,210,0 210,313,331,341,1 259,297,287,323,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1551.jpg 332,113,397,147,1 213,390,250,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1552.jpg 222,97,301,149,1 13,326,91,356,2 7,372,83,410,2 373,179,397,209,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1553.jpg 69,201,145,240,1 254,183,358,212,1 168,388,195,415,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1554.jpg 10,46,31,82,2 197,205,327,223,2 7,386,34,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1555.jpg 9,147,31,174,2 83,254,140,299,2 388,349,410,367,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1556.jpg 7,85,40,110,0 373,307,413,336,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1557.jpg 24,120,68,146,1 248,49,298,65,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1558.jpg 205,43,253,63,2 397,367,413,396,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1559.jpg 308,3,413,10,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1560.jpg 238,1,274,33,2 359,224,392,249,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1561.jpg 322,84,410,137,1 85,170,113,183,1 173,252,197,307,0 203,321,261,343,2 202,361,258,396,2 210,396,323,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1562.jpg 203,349,227,396,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1563.jpg 70,1,95,27,2 322,100,413,173,2 176,170,204,197,0 144,190,240,205,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1564.jpg 156,128,173,144,0 234,153,261,185,0 207,233,239,285,1 125,398,142,413,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1565.jpg 94,61,192,88,1 191,247,262,287,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1566.jpg 28,33,54,75,0 131,223,205,267,0 201,321,250,345,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1567.jpg 15,249,45,270,0 369,289,397,328,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1568.jpg 60,74,96,115,0 352,267,388,313,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1569.jpg 197,247,255,276,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1570.jpg 237,27,259,43,0 268,7,291,52,0 24,347,51,407,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1571.jpg 172,86,200,131,0 1,2,24,16,2 337,263,362,290,0 298,289,413,301,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1572.jpg 16,217,40,285,2 370,328,412,339,1 364,346,385,359,1 393,348,409,369,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1574.jpg 175,101,201,128,0 133,127,204,140,1 149,279,176,297,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1575.jpg 306,240,352,285,2 316,178,340,197,0 366,186,394,198,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1576.jpg 29,313,71,370,1 240,327,280,374,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1577.jpg 19,267,69,292,1 365,216,413,259,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1578.jpg 5,169,33,201,0 349,105,390,149,2 26,226,152,297,2 384,257,405,285,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1579.jpg 22,129,153,201,2 316,2,345,12,0 379,255,401,290,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1580.jpg 94,214,110,225,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1581.jpg 61,31,81,44,0 88,11,112,58,0 180,401,197,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1582.jpg 366,138,416,167,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1583.jpg 3,341,29,362,0 297,170,313,186,0 386,216,408,270,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1584.jpg 41,246,71,282,0 326,325,398,362,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1585.jpg 92,53,191,79,1 208,71,261,107,2 334,282,342,294,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1586.jpg 11,350,102,395,2 186,361,221,413,2 375,191,413,201,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1587.jpg 45,185,96,209,2 346,1,370,37,0 373,16,401,33,0 184,385,220,414,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1588.jpg 50,385,110,415,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1589.jpg 156,72,174,88,0 222,193,270,230,2 207,290,222,320,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1590.jpg 356,12,410,58,2 4,367,34,382,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1591.jpg 371,306,414,334,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1592.jpg 62,2,116,52,1 43,317,111,349,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1593.jpg 19,97,53,127,0 313,146,342,161,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1594.jpg 85,152,116,186,0 258,114,309,164,0 146,270,218,282,1 195,239,221,270,0 266,272,319,319,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1595.jpg 49,79,88,132,1 232,15,308,56,1 210,361,258,391,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1596.jpg 209,107,259,148,2 213,337,244,361,2 31,240,95,264,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1597.jpg 179,10,218,34,2 382,16,407,55,0 1,277,56,322,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1598.jpg 41,19,91,38,2 324,7,369,48,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1599.jpg 45,279,130,317,1 315,82,392,128,1 1,100,20,133,2 269,328,349,362,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1600.jpg 134,227,158,242,0 255,10,295,43,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1601.jpg 56,61,100,110,0 339,7,388,34,2 355,194,411,226,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1602.jpg 130,165,149,180,0 228,182,269,216,2 388,27,410,64,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1603.jpg 1,106,21,140,2 178,194,232,232,2 225,368,341,415,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1604.jpg 82,261,181,279,1 254,293,275,314,0 240,314,313,328,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1605.jpg 164,82,184,97,0 355,52,395,100,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1606.jpg 104,179,152,219,2 1,374,28,401,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1607.jpg 297,58,319,71,0 373,340,393,373,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1608.jpg 40,125,83,185,1 331,87,401,122,1 10,350,47,385,0 265,294,285,313,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1609.jpg 131,179,157,193,0 194,133,243,163,1 196,335,240,394,1 3,196,18,221,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1610.jpg 315,274,400,324,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1611.jpg 3,67,29,103,0 146,235,168,249,0 313,194,336,210,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1612.jpg 94,4,140,13,1 215,44,267,59,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1613.jpg 314,60,337,75,0 222,293,310,344,1 55,336,91,388,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1614.jpg 46,140,86,173,2 219,175,301,197,2 167,206,191,225,0 282,255,401,276,1 321,270,346,297,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1615.jpg 19,121,109,173,2 231,40,249,54,0 258,22,286,61,0 45,354,109,384,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1616.jpg 212,194,227,209,0 229,40,259,67,2 395,214,416,244,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1617.jpg 87,82,197,108,1 349,407,369,416,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1618.jpg 219,345,264,362,2 222,382,264,413,2 371,161,411,174,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1619.jpg 52,141,160,195,1 45,290,70,333,0 240,336,278,355,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1620.jpg 69,33,143,74,1 388,32,412,67,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1621.jpg 223,65,285,94,1 211,285,273,323,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1622.jpg 54,285,150,349,1 279,349,378,389,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1623.jpg 228,233,302,282,1 58,383,117,416,2 4,157,36,205,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1624.jpg 38,89,175,107,1 97,104,127,128,0 307,82,334,106,0 274,103,385,115,1 27,222,146,297,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1625.jpg 40,129,99,156,1 14,258,52,285,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1626.jpg 76,43,102,59,0 113,17,135,71,0 186,343,231,372,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1627.jpg 162,31,181,46,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1628.jpg 1,196,15,231,1 15,364,109,405,2 383,133,407,165,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1629.jpg 75,31,163,79,1 170,196,197,216,0 206,269,240,277,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1630.jpg 66,22,149,65,1 349,155,375,173,0 286,245,369,257,1 35,388,168,416,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1631.jpg 2,65,60,101,2 401,125,416,138,0 378,329,416,361,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1633.jpg 26,114,67,140,1 316,320,339,365,0 345,326,367,341,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1634.jpg 19,160,55,213,2 361,81,394,128,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1635.jpg 43,257,177,274,1 100,270,135,297,0 123,157,143,174,0 388,345,411,354,1 388,361,409,379,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1636.jpg 387,51,414,107,2 339,191,377,202,2 234,371,279,410,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1637.jpg 326,191,347,249,0 358,201,383,219,0 123,299,149,316,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1638.jpg 27,165,162,216,2 198,299,233,328,1 264,202,290,218,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1639.jpg 249,2,276,23,0 202,154,243,181,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1640.jpg 61,1,104,52,1 234,28,282,56,2 254,261,352,291,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1641.jpg 34,120,79,174,1 58,344,99,400,1 189,242,257,273,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1642.jpg 281,12,303,26,0 211,188,260,242,0 1,125,14,165,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1643.jpg 125,295,237,338,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1644.jpg 63,210,165,285,2 225,376,274,394,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1645.jpg 43,309,157,361,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1646.jpg 396,284,415,312,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1647.jpg 172,184,210,217,0 316,22,346,84,0 353,33,385,54,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1648.jpg 101,170,194,206,1 403,145,416,169,0 205,312,229,354,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1649.jpg 27,22,91,55,2 60,7,153,28,2 34,70,97,97,2 230,10,288,40,1 352,154,384,209,1 369,252,388,284,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1650.jpg 173,83,204,116,0 170,284,192,316,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1651.jpg 40,118,70,159,0 279,373,327,413,0 327,353,357,388,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1652.jpg 37,20,79,66,1 28,202,61,239,0 342,44,364,61,0 316,264,398,314,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1653.jpg 73,132,109,172,0 233,327,273,373,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1654.jpg 52,231,131,260,1 297,255,326,271,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1655.jpg 358,158,397,179,2 355,341,409,408,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1656.jpg 225,259,251,272,0 254,231,283,279,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1657.jpg 208,61,233,94,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1658.jpg 4,251,97,289,2 350,243,376,264,0 305,258,416,276,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1659.jpg 6,267,31,312,0 192,353,208,373,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1660.jpg 30,46,43,88,2 11,67,28,85,0 226,23,249,44,0 256,2,285,46,0 42,170,114,200,2 266,333,322,382,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1661.jpg 25,304,50,341,0 266,337,320,383,2 329,16,407,67,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1662.jpg 314,23,335,43,0 161,206,188,249,0 296,288,374,328,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1663.jpg 178,142,208,191,0 144,294,216,327,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1664.jpg 202,188,231,200,1 351,198,372,216,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1665.jpg 12,104,125,171,2 10,331,82,379,2 328,168,378,213,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1666.jpg 159,38,191,70,0 201,192,234,219,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1667.jpg 52,161,99,218,0 267,152,344,187,1 194,249,229,294,1 17,390,34,415,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1668.jpg 107,176,177,228,2 328,60,416,107,2 376,320,404,360,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1669.jpg 377,25,406,76,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1670.jpg 11,47,38,100,2 35,320,65,352,0 212,359,234,397,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1671.jpg 134,2,160,12,0 226,351,308,360,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1672.jpg 99,170,181,213,2 263,230,351,268,1 5,328,76,374,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1673.jpg 1,13,19,39,2 281,84,378,121,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1674.jpg 126,228,154,250,2 177,210,209,246,1 388,1,410,26,2 396,261,416,297,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1675.jpg 46,143,93,175,2 207,16,272,45,2 194,253,217,285,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1676.jpg 4,131,97,182,2 50,249,88,304,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1677.jpg 230,219,311,264,1 143,337,216,382,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1678.jpg 43,28,73,75,0 210,320,247,349,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1679.jpg 200,200,220,239,0 304,68,396,125,2 220,247,256,306,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1680.jpg 61,2,126,23,1 240,16,268,52,0 64,361,114,414,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1681.jpg 52,149,104,182,2 119,249,143,265,0 217,356,271,401,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1682.jpg 204,109,225,137,0 244,305,262,366,1 1,237,22,271,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1683.jpg 7,154,32,173,1 168,129,182,171,0 125,210,165,225,1 358,270,382,294,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1684.jpg 208,287,283,328,2 340,156,415,191,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1685.jpg 104,7,207,22,1 216,200,249,222,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1686.jpg 4,252,42,289,0 233,188,249,214,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1687.jpg 31,170,73,219,1 324,59,337,71,0 155,386,171,401,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1688.jpg 20,50,138,126,2 72,338,111,385,0 244,264,279,304,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1689.jpg 56,142,115,173,1 225,79,255,102,2 222,280,297,323,1 141,353,166,370,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1690.jpg 21,121,75,149,1 235,274,249,304,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1691.jpg 313,324,365,380,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1692.jpg 163,139,194,158,0 351,208,381,231,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1693.jpg 6,128,51,177,2 201,11,263,40,1 261,262,388,322,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1694.jpg 221,108,316,172,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1695.jpg 237,57,252,109,1 340,167,397,202,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1696.jpg 177,22,223,40,1 106,260,167,310,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1697.jpg 256,133,282,150,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1698.jpg 2,151,97,189,2 14,328,95,365,2 5,383,89,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1699.jpg 173,261,258,314,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1700.jpg 85,110,94,119,0 116,353,136,365,0 256,162,297,197,2 314,349,413,394,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1701.jpg 134,172,183,218,2 304,128,416,171,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1702.jpg 58,119,147,177,1 236,135,256,174,1 246,171,267,189,0 90,388,116,414,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1703.jpg 295,82,384,132,1 319,376,349,393,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1704.jpg 113,148,225,181,0 382,123,404,150,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1705.jpg 172,30,200,84,0 206,59,234,79,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1706.jpg 88,183,118,202,2 202,304,231,348,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1707.jpg 273,242,361,271,1 3,279,19,318,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1708.jpg 164,55,197,73,2 120,310,181,350,0 281,314,360,387,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1709.jpg 37,2,95,40,2 17,332,161,401,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1710.jpg 173,196,193,223,0 364,1,416,23,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1711.jpg 43,313,88,361,1 352,28,361,33,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1712.jpg 130,43,224,85,0 290,313,403,357,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1713.jpg 153,52,163,60,0 209,178,225,187,1 211,197,228,210,1 388,356,411,410,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1714.jpg 31,20,107,67,2 76,12,189,32,2 31,92,122,119,2 161,333,188,385,0 191,352,220,376,0 236,154,267,185,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1715.jpg 210,267,257,316,0 29,288,87,345,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1716.jpg 307,143,325,185,0 331,167,360,180,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1717.jpg 37,128,101,155,1 366,2,376,33,1 386,1,407,31,1 226,196,288,228,1 220,336,262,390,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1718.jpg 197,1,219,16,2 65,216,104,234,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1719.jpg 72,114,104,152,0 20,256,46,288,0 261,185,343,243,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1720.jpg 188,250,221,294,1 275,197,296,230,0 244,212,264,229,0 330,60,413,108,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1721.jpg 243,136,307,183,2 15,341,92,375,2 38,398,93,413,2 273,390,304,406,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1722.jpg 7,37,40,79,2 182,169,202,209,1 219,142,243,185,1 27,322,91,345,2 22,361,85,395,2 61,391,153,410,2 201,207,230,247,0
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1723.jpg 17,84,50,156,2 216,1,287,41,2 213,243,257,267,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1724.jpg 137,53,173,74,1 379,167,406,188,0 339,369,377,416,2
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1725.jpg 110,82,210,117,0 331,201,358,222,0 365,205,411,224,1 319,229,412,264,1
+C:\Users\dell\Desktop\yolo3/VOCdevkit/VOC2007/JPEGImages/1726.jpg 47,242,107,263,1 400,375,416,416,1 355,92,413,140,2
